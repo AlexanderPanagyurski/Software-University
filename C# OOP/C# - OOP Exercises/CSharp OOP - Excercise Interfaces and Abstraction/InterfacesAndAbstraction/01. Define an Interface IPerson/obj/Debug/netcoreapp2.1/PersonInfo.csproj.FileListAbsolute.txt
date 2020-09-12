@@ -1,0 +1,11 @@
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\PersonInfo.deps.json
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.json
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\PersonInfo.dll
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\PersonInfo.pdb
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfo.cs
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\PersonInfo.dll
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\PersonInfo.pdb
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\PersonInfo.csprojAssemblyReference.cache

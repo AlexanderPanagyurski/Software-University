@@ -1,0 +1,10 @@
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.deps.json
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.json
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.dev.json
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.dll
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.pdb
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfo.cs
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.dll
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.pdb

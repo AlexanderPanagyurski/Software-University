@@ -1,0 +1,11 @@
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp2.2\Telephony.csprojAssemblyReference.cache
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp2.2\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp2.2\Telephony.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp2.2\Telephony.AssemblyInfo.cs
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp2.2\Telephony.deps.json
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp2.2\Telephony.runtimeconfig.json
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp2.2\Telephony.runtimeconfig.dev.json
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp2.2\Telephony.dll
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp2.2\Telephony.pdb
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp2.2\Telephony.dll
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp2.2\Telephony.pdb

@@ -1,0 +1,10 @@
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 15 Dec 2019\AquaShop\bin\Debug\netcoreapp2.2\AquaShop.deps.json
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 15 Dec 2019\AquaShop\bin\Debug\netcoreapp2.2\AquaShop.runtimeconfig.json
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 15 Dec 2019\AquaShop\bin\Debug\netcoreapp2.2\AquaShop.runtimeconfig.dev.json
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 15 Dec 2019\AquaShop\bin\Debug\netcoreapp2.2\AquaShop.dll
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 15 Dec 2019\AquaShop\bin\Debug\netcoreapp2.2\AquaShop.pdb
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 15 Dec 2019\AquaShop\obj\Debug\netcoreapp2.2\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 15 Dec 2019\AquaShop\obj\Debug\netcoreapp2.2\AquaShop.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 15 Dec 2019\AquaShop\obj\Debug\netcoreapp2.2\AquaShop.AssemblyInfo.cs
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 15 Dec 2019\AquaShop\obj\Debug\netcoreapp2.2\AquaShop.dll
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 15 Dec 2019\AquaShop\obj\Debug\netcoreapp2.2\AquaShop.pdb

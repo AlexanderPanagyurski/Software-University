@@ -1,0 +1,10 @@
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp2.2\EncapsulationExercise.deps.json
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp2.2\EncapsulationExercise.runtimeconfig.json
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp2.2\EncapsulationExercise.runtimeconfig.dev.json
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp2.2\EncapsulationExercise.dll
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp2.2\EncapsulationExercise.pdb
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp2.2\EncapsulationExercise.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp2.2\EncapsulationExercise.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp2.2\EncapsulationExercise.AssemblyInfo.cs
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp2.2\EncapsulationExercise.dll
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp2.2\EncapsulationExercise.pdb

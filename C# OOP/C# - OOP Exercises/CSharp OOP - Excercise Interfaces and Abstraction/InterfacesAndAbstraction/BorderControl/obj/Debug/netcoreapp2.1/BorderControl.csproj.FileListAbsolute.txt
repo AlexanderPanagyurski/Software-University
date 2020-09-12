@@ -1,0 +1,11 @@
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.deps.json
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.json
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.dev.json
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.pdb
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfo.cs
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.pdb
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csprojAssemblyReference.cache

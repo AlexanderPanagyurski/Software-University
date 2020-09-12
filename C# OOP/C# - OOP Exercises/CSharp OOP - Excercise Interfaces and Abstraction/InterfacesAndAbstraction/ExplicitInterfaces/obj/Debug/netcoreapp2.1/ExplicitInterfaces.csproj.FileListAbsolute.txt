@@ -1,0 +1,10 @@
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.deps.json
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.runtimeconfig.json
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.dll
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.pdb
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.dll
+C:\Users\home\Desktop\CSharp OOP - Excercise Interfaces and Abstraction\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.pdb

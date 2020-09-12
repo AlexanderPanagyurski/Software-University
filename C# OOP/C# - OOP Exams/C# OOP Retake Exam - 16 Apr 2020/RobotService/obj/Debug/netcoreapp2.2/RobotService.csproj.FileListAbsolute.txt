@@ -1,0 +1,11 @@
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Retake Exam - 16 Apr 2020\RobotService\obj\Debug\netcoreapp2.2\RobotService.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Retake Exam - 16 Apr 2020\RobotService\obj\Debug\netcoreapp2.2\RobotService.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Retake Exam - 16 Apr 2020\RobotService\obj\Debug\netcoreapp2.2\RobotService.AssemblyInfo.cs
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Retake Exam - 16 Apr 2020\RobotService\bin\Debug\netcoreapp2.2\RobotService.deps.json
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Retake Exam - 16 Apr 2020\RobotService\bin\Debug\netcoreapp2.2\RobotService.runtimeconfig.json
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Retake Exam - 16 Apr 2020\RobotService\bin\Debug\netcoreapp2.2\RobotService.runtimeconfig.dev.json
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Retake Exam - 16 Apr 2020\RobotService\bin\Debug\netcoreapp2.2\RobotService.dll
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Retake Exam - 16 Apr 2020\RobotService\bin\Debug\netcoreapp2.2\RobotService.pdb
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Retake Exam - 16 Apr 2020\RobotService\obj\Debug\netcoreapp2.2\RobotService.dll
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Retake Exam - 16 Apr 2020\RobotService\obj\Debug\netcoreapp2.2\RobotService.pdb
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Retake Exam - 16 Apr 2020\RobotService\obj\Debug\netcoreapp2.2\RobotService.csprojAssemblyReference.cache

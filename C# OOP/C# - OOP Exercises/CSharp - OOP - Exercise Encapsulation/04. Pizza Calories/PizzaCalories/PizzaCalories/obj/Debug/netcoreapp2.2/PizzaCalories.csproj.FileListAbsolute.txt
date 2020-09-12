@@ -1,0 +1,10 @@
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\04. Pizza Calories\PizzaCalories\PizzaCalories\obj\Debug\netcoreapp2.2\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\04. Pizza Calories\PizzaCalories\PizzaCalories\obj\Debug\netcoreapp2.2\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\04. Pizza Calories\PizzaCalories\PizzaCalories\obj\Debug\netcoreapp2.2\PizzaCalories.AssemblyInfo.cs
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\04. Pizza Calories\PizzaCalories\PizzaCalories\bin\Debug\netcoreapp2.2\PizzaCalories.deps.json
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\04. Pizza Calories\PizzaCalories\PizzaCalories\bin\Debug\netcoreapp2.2\PizzaCalories.runtimeconfig.json
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\04. Pizza Calories\PizzaCalories\PizzaCalories\bin\Debug\netcoreapp2.2\PizzaCalories.runtimeconfig.dev.json
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\04. Pizza Calories\PizzaCalories\PizzaCalories\bin\Debug\netcoreapp2.2\PizzaCalories.dll
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\04. Pizza Calories\PizzaCalories\PizzaCalories\bin\Debug\netcoreapp2.2\PizzaCalories.pdb
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\04. Pizza Calories\PizzaCalories\PizzaCalories\obj\Debug\netcoreapp2.2\PizzaCalories.dll
+C:\Users\home\Desktop\CSharp - OOP - Exercise Encapsulation\04. Pizza Calories\PizzaCalories\PizzaCalories\obj\Debug\netcoreapp2.2\PizzaCalories.pdb

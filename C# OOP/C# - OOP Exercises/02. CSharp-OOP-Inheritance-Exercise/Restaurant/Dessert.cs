@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Restaurant
+{
+    public class Dessert : Food
+    {
+        private double calories;
+        public Dessert(string name, decimal price, double grams, double calories)
+            : base(name, price, grams)
+        {
+            this.Calories = calories;
+        }
+
+        public double Calories
+        {
+            get
+            {
+                return calories;
+            }
+            private set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException();
+                }
+                calories = value;
+            }
+        }
+    }
+}

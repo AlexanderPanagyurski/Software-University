@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\home\\Desktop\\C# OOP\\C# - OOP Exams\\C# OOP Retake Exam - 16 Apr 2020\\RobotService\\RobotService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\home\\Desktop\\C# OOP\\C# - OOP Exams\\C# OOP Retake Exam - 16 Apr 2020\\RobotService\\RobotService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\home\\Desktop\\C# OOP\\C# - OOP Exams\\C# OOP Retake Exam - 16 Apr 2020\\RobotService\\RobotService.csproj",
+        "projectName": "RobotService",
+        "projectPath": "C:\\Users\\home\\Desktop\\C# OOP\\C# - OOP Exams\\C# OOP Retake Exam - 16 Apr 2020\\RobotService\\RobotService.csproj",
+        "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\home\\Desktop\\C# OOP\\C# - OOP Exams\\C# OOP Retake Exam - 16 Apr 2020\\RobotService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

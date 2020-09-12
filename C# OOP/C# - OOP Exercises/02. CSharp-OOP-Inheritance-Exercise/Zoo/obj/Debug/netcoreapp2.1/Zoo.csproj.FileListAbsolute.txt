@@ -1,0 +1,11 @@
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Zoo\bin\Debug\netcoreapp2.1\Zoo.deps.json
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.json
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.dev.json
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Zoo\bin\Debug\netcoreapp2.1\Zoo.dll
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Zoo\bin\Debug\netcoreapp2.1\Zoo.pdb
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Zoo\obj\Debug\netcoreapp2.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfo.cs
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Zoo\obj\Debug\netcoreapp2.1\Zoo.dll
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Zoo\obj\Debug\netcoreapp2.1\Zoo.pdb
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Zoo\obj\Debug\netcoreapp2.1\Zoo.csprojAssemblyReference.cache

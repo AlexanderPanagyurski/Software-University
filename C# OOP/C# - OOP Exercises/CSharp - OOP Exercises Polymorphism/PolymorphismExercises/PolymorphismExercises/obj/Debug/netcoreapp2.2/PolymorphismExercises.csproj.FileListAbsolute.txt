@@ -1,0 +1,10 @@
+C:\Users\home\Desktop\CSharp - OOP Exercises Polymorphism\PolymorphismExercises\PolymorphismExercises\bin\Debug\netcoreapp2.2\PolymorphismExercises.deps.json
+C:\Users\home\Desktop\CSharp - OOP Exercises Polymorphism\PolymorphismExercises\PolymorphismExercises\bin\Debug\netcoreapp2.2\PolymorphismExercises.runtimeconfig.json
+C:\Users\home\Desktop\CSharp - OOP Exercises Polymorphism\PolymorphismExercises\PolymorphismExercises\bin\Debug\netcoreapp2.2\PolymorphismExercises.runtimeconfig.dev.json
+C:\Users\home\Desktop\CSharp - OOP Exercises Polymorphism\PolymorphismExercises\PolymorphismExercises\bin\Debug\netcoreapp2.2\PolymorphismExercises.dll
+C:\Users\home\Desktop\CSharp - OOP Exercises Polymorphism\PolymorphismExercises\PolymorphismExercises\bin\Debug\netcoreapp2.2\PolymorphismExercises.pdb
+C:\Users\home\Desktop\CSharp - OOP Exercises Polymorphism\PolymorphismExercises\PolymorphismExercises\obj\Debug\netcoreapp2.2\PolymorphismExercises.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\CSharp - OOP Exercises Polymorphism\PolymorphismExercises\PolymorphismExercises\obj\Debug\netcoreapp2.2\PolymorphismExercises.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\CSharp - OOP Exercises Polymorphism\PolymorphismExercises\PolymorphismExercises\obj\Debug\netcoreapp2.2\PolymorphismExercises.AssemblyInfo.cs
+C:\Users\home\Desktop\CSharp - OOP Exercises Polymorphism\PolymorphismExercises\PolymorphismExercises\obj\Debug\netcoreapp2.2\PolymorphismExercises.dll
+C:\Users\home\Desktop\CSharp - OOP Exercises Polymorphism\PolymorphismExercises\PolymorphismExercises\obj\Debug\netcoreapp2.2\PolymorphismExercises.pdb

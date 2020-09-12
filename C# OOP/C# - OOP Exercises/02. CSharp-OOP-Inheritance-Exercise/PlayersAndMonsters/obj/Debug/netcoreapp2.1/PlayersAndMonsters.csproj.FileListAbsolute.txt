@@ -1,0 +1,10 @@
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.deps.json
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.json
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.dev.json
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.pdb

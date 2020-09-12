@@ -1,0 +1,11 @@
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 12 Apr 2020\CounterStrike\obj\Debug\netcoreapp2.2\CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 12 Apr 2020\CounterStrike\obj\Debug\netcoreapp2.2\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 12 Apr 2020\CounterStrike\obj\Debug\netcoreapp2.2\CounterStrike.AssemblyInfo.cs
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 12 Apr 2020\CounterStrike\bin\Debug\netcoreapp2.2\CounterStrike.deps.json
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 12 Apr 2020\CounterStrike\bin\Debug\netcoreapp2.2\CounterStrike.runtimeconfig.json
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 12 Apr 2020\CounterStrike\bin\Debug\netcoreapp2.2\CounterStrike.runtimeconfig.dev.json
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 12 Apr 2020\CounterStrike\bin\Debug\netcoreapp2.2\CounterStrike.dll
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 12 Apr 2020\CounterStrike\bin\Debug\netcoreapp2.2\CounterStrike.pdb
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 12 Apr 2020\CounterStrike\obj\Debug\netcoreapp2.2\CounterStrike.dll
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 12 Apr 2020\CounterStrike\obj\Debug\netcoreapp2.2\CounterStrike.pdb
+C:\Users\home\Desktop\C# OOP\C# - OOP Exams\C# OOP Exam - 12 Apr 2020\CounterStrike\obj\Debug\netcoreapp2.2\CounterStrike.csprojAssemblyReference.cache

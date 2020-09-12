@@ -1,0 +1,10 @@
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Animals\obj\Debug\netcoreapp2.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+C:\Users\home\Desktop\02. CSharp-OOP-Inheritance-Exercise\Animals\obj\Debug\netcoreapp2.1\Animals.pdb
