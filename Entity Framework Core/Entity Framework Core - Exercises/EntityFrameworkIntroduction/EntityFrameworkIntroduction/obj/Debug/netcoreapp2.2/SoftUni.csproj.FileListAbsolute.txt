@@ -1,0 +1,11 @@
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\bin\Debug\netcoreapp2.2\SoftUni.deps.json
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\bin\Debug\netcoreapp2.2\SoftUni.runtimeconfig.json
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\bin\Debug\netcoreapp2.2\SoftUni.runtimeconfig.dev.json
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\bin\Debug\netcoreapp2.2\SoftUni.dll
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\bin\Debug\netcoreapp2.2\SoftUni.pdb
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\obj\Debug\netcoreapp2.2\SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\obj\Debug\netcoreapp2.2\SoftUni.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\obj\Debug\netcoreapp2.2\SoftUni.AssemblyInfo.cs
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\obj\Debug\netcoreapp2.2\SoftUni.dll
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\obj\Debug\netcoreapp2.2\SoftUni.pdb
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\obj\Debug\netcoreapp2.2\SoftUni.genruntimeconfig.cache

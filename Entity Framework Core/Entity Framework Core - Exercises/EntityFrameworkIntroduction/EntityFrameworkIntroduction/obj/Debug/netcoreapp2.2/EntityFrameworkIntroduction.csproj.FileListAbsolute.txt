@@ -1,0 +1,11 @@
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\bin\Debug\netcoreapp2.2\EntityFrameworkIntroduction.deps.json
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\bin\Debug\netcoreapp2.2\EntityFrameworkIntroduction.runtimeconfig.json
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\bin\Debug\netcoreapp2.2\EntityFrameworkIntroduction.runtimeconfig.dev.json
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\bin\Debug\netcoreapp2.2\EntityFrameworkIntroduction.dll
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\obj\Debug\netcoreapp2.2\EntityFrameworkIntroduction.csprojAssemblyReference.cache
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\obj\Debug\netcoreapp2.2\EntityFrameworkIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\obj\Debug\netcoreapp2.2\EntityFrameworkIntroduction.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\obj\Debug\netcoreapp2.2\EntityFrameworkIntroduction.AssemblyInfo.cs
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\bin\Debug\netcoreapp2.2\EntityFrameworkIntroduction.pdb
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\obj\Debug\netcoreapp2.2\EntityFrameworkIntroduction.dll
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\EntityFrameworkIntroduction\EntityFrameworkIntroduction\obj\Debug\netcoreapp2.2\EntityFrameworkIntroduction.pdb

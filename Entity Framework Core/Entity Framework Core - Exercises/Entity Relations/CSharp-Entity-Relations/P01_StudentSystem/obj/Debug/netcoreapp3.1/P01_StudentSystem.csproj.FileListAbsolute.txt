@@ -1,0 +1,14 @@
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.csprojAssemblyReference.cache
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.AssemblyInfo.cs
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.deps.json
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.dll
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.pdb
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.dll
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.dll
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.pdb
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.pdb
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.csproj.CopyComplete
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.dll
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\CSharpDatabaseAdvanced-EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp3.1\P01_StudentSystem.pdb

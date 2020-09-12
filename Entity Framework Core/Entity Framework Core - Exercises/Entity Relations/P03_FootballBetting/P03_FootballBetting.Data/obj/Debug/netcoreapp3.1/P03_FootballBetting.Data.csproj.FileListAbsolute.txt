@@ -1,0 +1,15 @@
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.deps.json
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.runtimeconfig.json
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.runtimeconfig.dev.json
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.dll
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.pdb
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.dll
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.pdb
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.csprojAssemblyReference.cache
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.AssemblyInfo.cs
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.csproj.CopyComplete
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.dll
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.pdb
+C:\Users\home\Desktop\Entity Framework Core\Entity Framework Core - Exercises\Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.genruntimeconfig.cache
