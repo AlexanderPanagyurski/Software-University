@@ -1,0 +1,13 @@
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfo.cs
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.exe
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.deps.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.dev.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.dll
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.pdb
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.dll
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.pdb
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.genruntimeconfig.cache
