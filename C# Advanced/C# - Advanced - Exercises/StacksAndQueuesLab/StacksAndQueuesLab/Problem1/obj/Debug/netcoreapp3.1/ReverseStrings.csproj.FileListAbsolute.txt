@@ -10,3 +10,15 @@ C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\
 C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\Problem1\obj\Debug\netcoreapp3.1\ReverseStrings.dll
 C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\Problem1\obj\Debug\netcoreapp3.1\ReverseStrings.pdb
 C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\Problem1\obj\Debug\netcoreapp3.1\ReverseStrings.genruntimeconfig.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\Problem1\bin\Debug\netcoreapp3.1\ReverseStrings.exe
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\Problem1\bin\Debug\netcoreapp3.1\ReverseStrings.deps.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\Problem1\bin\Debug\netcoreapp3.1\ReverseStrings.runtimeconfig.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\Problem1\bin\Debug\netcoreapp3.1\ReverseStrings.runtimeconfig.dev.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\Problem1\bin\Debug\netcoreapp3.1\ReverseStrings.dll
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\Problem1\bin\Debug\netcoreapp3.1\ReverseStrings.pdb
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\Problem1\obj\Debug\netcoreapp3.1\ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\Problem1\obj\Debug\netcoreapp3.1\ReverseStrings.AssemblyInfo.cs
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\Problem1\obj\Debug\netcoreapp3.1\ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\Problem1\obj\Debug\netcoreapp3.1\ReverseStrings.dll
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\Problem1\obj\Debug\netcoreapp3.1\ReverseStrings.pdb
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\Problem1\obj\Debug\netcoreapp3.1\ReverseStrings.genruntimeconfig.cache

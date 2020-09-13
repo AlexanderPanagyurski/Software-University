@@ -10,3 +10,15 @@ C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\
 C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\HotPotatoe\obj\Debug\netcoreapp3.1\HotPotatoe.dll
 C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\HotPotatoe\obj\Debug\netcoreapp3.1\HotPotatoe.pdb
 C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\HotPotatoe\obj\Debug\netcoreapp3.1\HotPotatoe.genruntimeconfig.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\HotPotatoe\bin\Debug\netcoreapp3.1\HotPotatoe.exe
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\HotPotatoe\bin\Debug\netcoreapp3.1\HotPotatoe.deps.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\HotPotatoe\bin\Debug\netcoreapp3.1\HotPotatoe.runtimeconfig.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\HotPotatoe\bin\Debug\netcoreapp3.1\HotPotatoe.runtimeconfig.dev.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\HotPotatoe\bin\Debug\netcoreapp3.1\HotPotatoe.dll
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\HotPotatoe\bin\Debug\netcoreapp3.1\HotPotatoe.pdb
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\HotPotatoe\obj\Debug\netcoreapp3.1\HotPotatoe.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\HotPotatoe\obj\Debug\netcoreapp3.1\HotPotatoe.AssemblyInfo.cs
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\HotPotatoe\obj\Debug\netcoreapp3.1\HotPotatoe.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\HotPotatoe\obj\Debug\netcoreapp3.1\HotPotatoe.dll
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\HotPotatoe\obj\Debug\netcoreapp3.1\HotPotatoe.pdb
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\HotPotatoe\obj\Debug\netcoreapp3.1\HotPotatoe.genruntimeconfig.cache

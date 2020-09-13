@@ -1,0 +1,12 @@
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchPotatoe\obj\Debug\netcoreapp3.1\MatchPotatoe.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchPotatoe\obj\Debug\netcoreapp3.1\MatchPotatoe.AssemblyInfo.cs
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchPotatoe\obj\Debug\netcoreapp3.1\MatchPotatoe.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchPotatoe\bin\Debug\netcoreapp3.1\MatchPotatoe.exe
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchPotatoe\bin\Debug\netcoreapp3.1\MatchPotatoe.deps.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchPotatoe\bin\Debug\netcoreapp3.1\MatchPotatoe.runtimeconfig.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchPotatoe\bin\Debug\netcoreapp3.1\MatchPotatoe.runtimeconfig.dev.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchPotatoe\bin\Debug\netcoreapp3.1\MatchPotatoe.dll
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchPotatoe\bin\Debug\netcoreapp3.1\MatchPotatoe.pdb
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchPotatoe\obj\Debug\netcoreapp3.1\MatchPotatoe.dll
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchPotatoe\obj\Debug\netcoreapp3.1\MatchPotatoe.pdb
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchPotatoe\obj\Debug\netcoreapp3.1\MatchPotatoe.genruntimeconfig.cache

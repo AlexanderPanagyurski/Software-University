@@ -11,3 +11,16 @@ C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\
 C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.dll
 C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.pdb
 C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.genruntimeconfig.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.exe
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.deps.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.runtimeconfig.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.runtimeconfig.dev.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.dll
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.pdb
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.csprojAssemblyReference.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.AssemblyInfo.cs
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.dll
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.pdb
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.genruntimeconfig.cache

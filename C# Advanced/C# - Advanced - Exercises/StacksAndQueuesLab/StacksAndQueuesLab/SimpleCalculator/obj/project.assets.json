@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\SimpleCalculator\\SimpleCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\SimpleCalculator\\SimpleCalculator.csproj",
       "projectName": "SimpleCalculator",
-      "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\SimpleCalculator\\SimpleCalculator.csproj",
+      "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\SimpleCalculator\\SimpleCalculator.csproj",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\SimpleCalculator\\obj\\",
+      "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\SimpleCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

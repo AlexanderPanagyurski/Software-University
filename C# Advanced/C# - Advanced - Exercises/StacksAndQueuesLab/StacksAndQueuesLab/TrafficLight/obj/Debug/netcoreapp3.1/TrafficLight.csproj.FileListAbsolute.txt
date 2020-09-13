@@ -10,3 +10,15 @@ C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\
 C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.dll
 C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.pdb
 C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesAddExerc\StacksAndQueuesAddExerc\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.genruntimeconfig.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\TrafficLight\bin\Debug\netcoreapp3.1\TrafficLight.exe
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\TrafficLight\bin\Debug\netcoreapp3.1\TrafficLight.deps.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\TrafficLight\bin\Debug\netcoreapp3.1\TrafficLight.runtimeconfig.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\TrafficLight\bin\Debug\netcoreapp3.1\TrafficLight.runtimeconfig.dev.json
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\TrafficLight\bin\Debug\netcoreapp3.1\TrafficLight.dll
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\TrafficLight\bin\Debug\netcoreapp3.1\TrafficLight.pdb
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.AssemblyInfo.cs
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.dll
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.pdb
+C:\Users\home\Desktop\Software-University\C# Advanced\C# - Advanced - Exercises\StacksAndQueuesLab\StacksAndQueuesLab\TrafficLight\obj\Debug\netcoreapp3.1\TrafficLight.genruntimeconfig.cache

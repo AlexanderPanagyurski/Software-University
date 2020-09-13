@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\Problem1\\ReverseStrings.csproj": {}
+    "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\Problem1\\ReverseStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\Problem1\\ReverseStrings.csproj": {
+    "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\Problem1\\ReverseStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\Problem1\\ReverseStrings.csproj",
+        "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\Problem1\\ReverseStrings.csproj",
         "projectName": "ReverseStrings",
-        "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\Problem1\\ReverseStrings.csproj",
+        "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\Problem1\\ReverseStrings.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\Problem1\\obj\\",
+        "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\Problem1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

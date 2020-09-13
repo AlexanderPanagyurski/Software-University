@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\TrafficLight\\TrafficLight.csproj",
+      "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\TrafficLight\\TrafficLight.csproj",
       "projectName": "TrafficLight",
-      "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\TrafficLight\\TrafficLight.csproj",
+      "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\TrafficLight\\TrafficLight.csproj",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\TrafficLight\\obj\\",
+      "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\TrafficLight\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

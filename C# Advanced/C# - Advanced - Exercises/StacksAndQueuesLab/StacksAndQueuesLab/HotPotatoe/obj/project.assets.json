@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\HotPotatoe\\HotPotatoe.csproj",
+      "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\HotPotatoe\\HotPotatoe.csproj",
       "projectName": "HotPotatoe",
-      "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\HotPotatoe\\HotPotatoe.csproj",
+      "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\HotPotatoe\\HotPotatoe.csproj",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\HotPotatoe\\obj\\",
+      "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\HotPotatoe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\MatchingBrackets\\MatchingBrackets.csproj": {}
+    "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\MatchingBrackets\\MatchingBrackets.csproj": {}
   },
   "projects": {
-    "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\MatchingBrackets\\MatchingBrackets.csproj": {
+    "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\MatchingBrackets\\MatchingBrackets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\MatchingBrackets\\MatchingBrackets.csproj",
+        "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\MatchingBrackets\\MatchingBrackets.csproj",
         "projectName": "MatchingBrackets",
-        "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\MatchingBrackets\\MatchingBrackets.csproj",
+        "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\MatchingBrackets\\MatchingBrackets.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesAddExerc\\StacksAndQueuesAddExerc\\MatchingBrackets\\obj\\",
+        "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\C# Advanced\\C# - Advanced - Exercises\\StacksAndQueuesLab\\StacksAndQueuesLab\\MatchingBrackets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
