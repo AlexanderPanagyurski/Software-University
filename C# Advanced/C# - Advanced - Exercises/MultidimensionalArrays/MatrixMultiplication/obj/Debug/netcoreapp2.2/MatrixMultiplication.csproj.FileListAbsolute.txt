@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixMultiplication\bin\Debug\netcoreapp2.2\MatrixMultiplication.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixMultiplication\bin\Debug\netcoreapp2.2\MatrixMultiplication.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixMultiplication\bin\Debug\netcoreapp2.2\MatrixMultiplication.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixMultiplication\bin\Debug\netcoreapp2.2\MatrixMultiplication.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixMultiplication\bin\Debug\netcoreapp2.2\MatrixMultiplication.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixMultiplication\obj\Debug\netcoreapp2.2\MatrixMultiplication.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixMultiplication\obj\Debug\netcoreapp2.2\MatrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixMultiplication\obj\Debug\netcoreapp2.2\MatrixMultiplication.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixMultiplication\obj\Debug\netcoreapp2.2\MatrixMultiplication.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixMultiplication\obj\Debug\netcoreapp2.2\MatrixMultiplication.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixMultiplication\obj\Debug\netcoreapp2.2\MatrixMultiplication.pdb

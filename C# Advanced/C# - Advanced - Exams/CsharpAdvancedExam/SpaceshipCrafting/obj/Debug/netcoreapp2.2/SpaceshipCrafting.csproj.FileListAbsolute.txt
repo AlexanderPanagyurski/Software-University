@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\CsharpAdvancedExam\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\CsharpAdvancedExam\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\CsharpAdvancedExam\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\CsharpAdvancedExam\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\CsharpAdvancedExam\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\CsharpAdvancedExam\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\CsharpAdvancedExam\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\CsharpAdvancedExam\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\CsharpAdvancedExam\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\CsharpAdvancedExam\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\CsharpAdvancedExam\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.pdb

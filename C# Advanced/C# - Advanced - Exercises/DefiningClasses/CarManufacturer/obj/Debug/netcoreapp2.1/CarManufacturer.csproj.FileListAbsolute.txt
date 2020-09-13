@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp2.1\CarManufacturer.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp2.1\CarManufacturer.csprojAssemblyReference.cache

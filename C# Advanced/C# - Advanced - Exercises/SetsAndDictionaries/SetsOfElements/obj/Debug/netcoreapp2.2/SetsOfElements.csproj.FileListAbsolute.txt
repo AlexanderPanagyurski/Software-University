@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.2\SetsOfElements.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.2\SetsOfElements.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.2\SetsOfElements.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.2\SetsOfElements.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.2\SetsOfElements.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.2\SetsOfElements.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.2\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.2\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.2\SetsOfElements.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.2\SetsOfElements.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.2\SetsOfElements.pdb

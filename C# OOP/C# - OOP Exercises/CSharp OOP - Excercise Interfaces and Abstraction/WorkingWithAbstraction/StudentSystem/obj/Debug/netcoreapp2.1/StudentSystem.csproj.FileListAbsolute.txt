@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csprojAssemblyReference.cache

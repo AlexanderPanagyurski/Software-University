@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\SolidExercise\SolidExercise\obj\Debug\netcoreapp2.2\SolidExercise.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SolidExercise\SolidExercise\obj\Debug\netcoreapp2.2\SolidExercise.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SolidExercise\SolidExercise\obj\Debug\netcoreapp2.2\SolidExercise.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SolidExercise\SolidExercise\obj\Debug\netcoreapp2.2\SolidExercise.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\SolidExercise\SolidExercise\bin\Debug\netcoreapp2.2\SolidExercise.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SolidExercise\SolidExercise\bin\Debug\netcoreapp2.2\SolidExercise.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SolidExercise\SolidExercise\bin\Debug\netcoreapp2.2\SolidExercise.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SolidExercise\SolidExercise\bin\Debug\netcoreapp2.2\SolidExercise.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SolidExercise\SolidExercise\bin\Debug\netcoreapp2.2\SolidExercise.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\SolidExercise\SolidExercise\obj\Debug\netcoreapp2.2\SolidExercise.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SolidExercise\SolidExercise\obj\Debug\netcoreapp2.2\SolidExercise.pdb

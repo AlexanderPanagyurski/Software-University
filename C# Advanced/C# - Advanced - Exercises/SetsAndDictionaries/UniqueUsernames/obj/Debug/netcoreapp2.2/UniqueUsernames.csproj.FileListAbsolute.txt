@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\UniqueUsernames\bin\Debug\netcoreapp2.2\UniqueUsernames.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\UniqueUsernames\bin\Debug\netcoreapp2.2\UniqueUsernames.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\UniqueUsernames\bin\Debug\netcoreapp2.2\UniqueUsernames.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\UniqueUsernames\bin\Debug\netcoreapp2.2\UniqueUsernames.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\UniqueUsernames\bin\Debug\netcoreapp2.2\UniqueUsernames.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\UniqueUsernames\obj\Debug\netcoreapp2.2\UniqueUsernames.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\UniqueUsernames\obj\Debug\netcoreapp2.2\UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\UniqueUsernames\obj\Debug\netcoreapp2.2\UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\UniqueUsernames\obj\Debug\netcoreapp2.2\UniqueUsernames.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\UniqueUsernames\obj\Debug\netcoreapp2.2\UniqueUsernames.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\UniqueUsernames\obj\Debug\netcoreapp2.2\UniqueUsernames.pdb

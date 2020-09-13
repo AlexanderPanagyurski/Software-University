@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\HelensAbduction\bin\Debug\netcoreapp2.2\HelensAbduction.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\HelensAbduction\bin\Debug\netcoreapp2.2\HelensAbduction.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\HelensAbduction\bin\Debug\netcoreapp2.2\HelensAbduction.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\HelensAbduction\bin\Debug\netcoreapp2.2\HelensAbduction.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\HelensAbduction\bin\Debug\netcoreapp2.2\HelensAbduction.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\HelensAbduction\obj\Debug\netcoreapp2.2\HelensAbduction.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\HelensAbduction\obj\Debug\netcoreapp2.2\HelensAbduction.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\HelensAbduction\obj\Debug\netcoreapp2.2\HelensAbduction.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\HelensAbduction\obj\Debug\netcoreapp2.2\HelensAbduction.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\HelensAbduction\obj\Debug\netcoreapp2.2\HelensAbduction.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\HelensAbduction\obj\Debug\netcoreapp2.2\HelensAbduction.csprojAssemblyReference.cache

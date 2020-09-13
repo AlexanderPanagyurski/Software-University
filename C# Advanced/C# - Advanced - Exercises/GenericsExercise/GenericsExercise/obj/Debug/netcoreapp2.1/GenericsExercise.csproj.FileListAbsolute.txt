@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\GenericsExercise\GenericsExercise\bin\Debug\netcoreapp2.1\GenericsExercise.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\GenericsExercise\GenericsExercise\bin\Debug\netcoreapp2.1\GenericsExercise.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\GenericsExercise\GenericsExercise\bin\Debug\netcoreapp2.1\GenericsExercise.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\GenericsExercise\GenericsExercise\bin\Debug\netcoreapp2.1\GenericsExercise.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\GenericsExercise\GenericsExercise\bin\Debug\netcoreapp2.1\GenericsExercise.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\GenericsExercise\GenericsExercise\obj\Debug\netcoreapp2.1\GenericsExercise.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\GenericsExercise\GenericsExercise\obj\Debug\netcoreapp2.1\GenericsExercise.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\GenericsExercise\GenericsExercise\obj\Debug\netcoreapp2.1\GenericsExercise.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\GenericsExercise\GenericsExercise\obj\Debug\netcoreapp2.1\GenericsExercise.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\GenericsExercise\GenericsExercise\obj\Debug\netcoreapp2.1\GenericsExercise.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\GenericsExercise\GenericsExercise\obj\Debug\netcoreapp2.1\GenericsExercise.csprojAssemblyReference.cache

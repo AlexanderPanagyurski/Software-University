@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.pdb

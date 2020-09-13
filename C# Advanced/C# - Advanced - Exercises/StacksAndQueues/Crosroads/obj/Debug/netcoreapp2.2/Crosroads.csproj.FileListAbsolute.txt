@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\Crosroads\bin\Debug\netcoreapp2.2\Crosroads.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\Crosroads\bin\Debug\netcoreapp2.2\Crosroads.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\Crosroads\bin\Debug\netcoreapp2.2\Crosroads.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\Crosroads\bin\Debug\netcoreapp2.2\Crosroads.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\Crosroads\bin\Debug\netcoreapp2.2\Crosroads.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\Crosroads\obj\Debug\netcoreapp2.2\Crosroads.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\Crosroads\obj\Debug\netcoreapp2.2\Crosroads.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\Crosroads\obj\Debug\netcoreapp2.2\Crosroads.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\Crosroads\obj\Debug\netcoreapp2.2\Crosroads.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\Crosroads\obj\Debug\netcoreapp2.2\Crosroads.pdb

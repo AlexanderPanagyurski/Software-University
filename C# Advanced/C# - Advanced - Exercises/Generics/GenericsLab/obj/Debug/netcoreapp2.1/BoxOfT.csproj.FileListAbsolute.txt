@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\Generics\GenericsLab\bin\Debug\netcoreapp2.1\BoxOfT.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\Generics\GenericsLab\bin\Debug\netcoreapp2.1\BoxOfT.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\Generics\GenericsLab\bin\Debug\netcoreapp2.1\BoxOfT.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\Generics\GenericsLab\bin\Debug\netcoreapp2.1\BoxOfT.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\Generics\GenericsLab\bin\Debug\netcoreapp2.1\BoxOfT.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\Generics\GenericsLab\obj\Debug\netcoreapp2.1\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\Generics\GenericsLab\obj\Debug\netcoreapp2.1\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\Generics\GenericsLab\obj\Debug\netcoreapp2.1\BoxOfT.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\Generics\GenericsLab\obj\Debug\netcoreapp2.1\BoxOfT.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\Generics\GenericsLab\obj\Debug\netcoreapp2.1\BoxOfT.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\Generics\GenericsLab\obj\Debug\netcoreapp2.1\BoxOfT.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\ChemicalElements\bin\Debug\netcoreapp2.2\ChemicalElements.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\ChemicalElements\bin\Debug\netcoreapp2.2\ChemicalElements.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\ChemicalElements\bin\Debug\netcoreapp2.2\ChemicalElements.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\ChemicalElements\bin\Debug\netcoreapp2.2\ChemicalElements.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\ChemicalElements\bin\Debug\netcoreapp2.2\ChemicalElements.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\ChemicalElements\obj\Debug\netcoreapp2.2\ChemicalElements.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\ChemicalElements\obj\Debug\netcoreapp2.2\ChemicalElements.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\ChemicalElements\obj\Debug\netcoreapp2.2\ChemicalElements.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\ChemicalElements\obj\Debug\netcoreapp2.2\ChemicalElements.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\ChemicalElements\obj\Debug\netcoreapp2.2\ChemicalElements.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\ChemicalElements\obj\Debug\netcoreapp2.2\ChemicalElements.pdb

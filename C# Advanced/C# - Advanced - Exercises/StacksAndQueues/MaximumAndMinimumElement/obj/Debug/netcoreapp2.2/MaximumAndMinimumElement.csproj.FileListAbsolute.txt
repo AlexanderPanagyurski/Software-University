@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.pdb

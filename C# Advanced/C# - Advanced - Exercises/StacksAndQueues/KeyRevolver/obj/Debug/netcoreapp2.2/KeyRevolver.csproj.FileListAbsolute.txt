@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp2.2\KeyRevolver.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp2.2\KeyRevolver.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp2.2\KeyRevolver.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp2.2\KeyRevolver.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp2.2\KeyRevolver.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp2.2\KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp2.2\KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp2.2\KeyRevolver.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp2.2\KeyRevolver.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp2.2\KeyRevolver.pdb

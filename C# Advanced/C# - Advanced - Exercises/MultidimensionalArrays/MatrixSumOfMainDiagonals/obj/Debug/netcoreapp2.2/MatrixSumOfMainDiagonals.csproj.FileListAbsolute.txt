@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixSumOfMainDiagonals\bin\Debug\netcoreapp2.2\MatrixSumOfMainDiagonals.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixSumOfMainDiagonals\bin\Debug\netcoreapp2.2\MatrixSumOfMainDiagonals.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixSumOfMainDiagonals\bin\Debug\netcoreapp2.2\MatrixSumOfMainDiagonals.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixSumOfMainDiagonals\bin\Debug\netcoreapp2.2\MatrixSumOfMainDiagonals.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixSumOfMainDiagonals\bin\Debug\netcoreapp2.2\MatrixSumOfMainDiagonals.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixSumOfMainDiagonals\obj\Debug\netcoreapp2.2\MatrixSumOfMainDiagonals.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixSumOfMainDiagonals\obj\Debug\netcoreapp2.2\MatrixSumOfMainDiagonals.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixSumOfMainDiagonals\obj\Debug\netcoreapp2.2\MatrixSumOfMainDiagonals.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixSumOfMainDiagonals\obj\Debug\netcoreapp2.2\MatrixSumOfMainDiagonals.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixSumOfMainDiagonals\obj\Debug\netcoreapp2.2\MatrixSumOfMainDiagonals.pdb

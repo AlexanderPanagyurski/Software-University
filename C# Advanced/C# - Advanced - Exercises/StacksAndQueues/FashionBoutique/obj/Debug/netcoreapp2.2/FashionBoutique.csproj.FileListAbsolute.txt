@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp2.2\FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp2.2\FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp2.2\FashionBoutique.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp2.2\FashionBoutique.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp2.2\FashionBoutique.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp2.2\FashionBoutique.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp2.2\FashionBoutique.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp2.2\FashionBoutique.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp2.2\FashionBoutique.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp2.2\FashionBoutique.pdb

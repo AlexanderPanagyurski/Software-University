@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.csprojAssemblyReference.cache

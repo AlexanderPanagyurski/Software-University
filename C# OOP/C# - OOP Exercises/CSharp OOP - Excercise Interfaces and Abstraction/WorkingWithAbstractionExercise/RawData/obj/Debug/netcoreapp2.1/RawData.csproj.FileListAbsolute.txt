@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\RawData\bin\Debug\netcoreapp2.1\RawData.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\RawData\bin\Debug\netcoreapp2.1\RawData.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\RawData\bin\Debug\netcoreapp2.1\RawData.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\RawData\obj\Debug\netcoreapp2.1\RawData.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\RawData\obj\Debug\netcoreapp2.1\RawData.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\RawData\obj\Debug\netcoreapp2.1\RawData.pdb

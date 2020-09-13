@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\Vloggers\bin\Debug\netcoreapp2.2\Vloggers.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\Vloggers\bin\Debug\netcoreapp2.2\Vloggers.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\Vloggers\bin\Debug\netcoreapp2.2\Vloggers.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\Vloggers\bin\Debug\netcoreapp2.2\Vloggers.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\Vloggers\bin\Debug\netcoreapp2.2\Vloggers.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\Vloggers\obj\Debug\netcoreapp2.2\Vloggers.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\Vloggers\obj\Debug\netcoreapp2.2\Vloggers.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\Vloggers\obj\Debug\netcoreapp2.2\Vloggers.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\Vloggers\obj\Debug\netcoreapp2.2\Vloggers.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\Vloggers\obj\Debug\netcoreapp2.2\Vloggers.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\Vloggers\obj\Debug\netcoreapp2.2\Vloggers.pdb

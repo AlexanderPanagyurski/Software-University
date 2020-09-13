@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.2\MatchingBrackets.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.2\MatchingBrackets.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.2\MatchingBrackets.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.2\MatchingBrackets.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.2\MatchingBrackets.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.2\MatchingBrackets.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.2\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.2\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.2\MatchingBrackets.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.2\MatchingBrackets.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.2\MatchingBrackets.pdb

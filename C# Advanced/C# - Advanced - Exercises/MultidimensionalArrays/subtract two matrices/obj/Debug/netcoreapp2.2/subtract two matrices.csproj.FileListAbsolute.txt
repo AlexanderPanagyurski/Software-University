@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\subtract two matrices\bin\Debug\netcoreapp2.2\subtract two matrices.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\subtract two matrices\bin\Debug\netcoreapp2.2\subtract two matrices.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\subtract two matrices\bin\Debug\netcoreapp2.2\subtract two matrices.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\subtract two matrices\bin\Debug\netcoreapp2.2\subtract two matrices.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\subtract two matrices\bin\Debug\netcoreapp2.2\subtract two matrices.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\subtract two matrices\obj\Debug\netcoreapp2.2\subtract two matrices.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\subtract two matrices\obj\Debug\netcoreapp2.2\subtract two matrices.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\subtract two matrices\obj\Debug\netcoreapp2.2\subtract two matrices.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\subtract two matrices\obj\Debug\netcoreapp2.2\subtract two matrices.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\subtract two matrices\obj\Debug\netcoreapp2.2\subtract two matrices.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\subtract two matrices\obj\Debug\netcoreapp2.2\subtract two matrices.pdb

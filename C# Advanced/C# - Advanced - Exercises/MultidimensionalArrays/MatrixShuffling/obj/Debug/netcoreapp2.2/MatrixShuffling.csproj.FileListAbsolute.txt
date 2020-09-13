@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixShuffling\bin\Debug\netcoreapp2.2\MatrixShuffling.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixShuffling\bin\Debug\netcoreapp2.2\MatrixShuffling.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixShuffling\bin\Debug\netcoreapp2.2\MatrixShuffling.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixShuffling\bin\Debug\netcoreapp2.2\MatrixShuffling.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixShuffling\bin\Debug\netcoreapp2.2\MatrixShuffling.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixShuffling\obj\Debug\netcoreapp2.2\MatrixShuffling.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixShuffling\obj\Debug\netcoreapp2.2\MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixShuffling\obj\Debug\netcoreapp2.2\MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixShuffling\obj\Debug\netcoreapp2.2\MatrixShuffling.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixShuffling\obj\Debug\netcoreapp2.2\MatrixShuffling.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\MatrixShuffling\obj\Debug\netcoreapp2.2\MatrixShuffling.pdb

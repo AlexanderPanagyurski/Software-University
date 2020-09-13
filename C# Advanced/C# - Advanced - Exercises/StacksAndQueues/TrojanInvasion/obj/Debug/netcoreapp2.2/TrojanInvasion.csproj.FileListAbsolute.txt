@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\TrojanInvasion\bin\Debug\netcoreapp2.2\TrojanInvasion.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\TrojanInvasion\obj\Debug\netcoreapp2.2\TrojanInvasion.pdb

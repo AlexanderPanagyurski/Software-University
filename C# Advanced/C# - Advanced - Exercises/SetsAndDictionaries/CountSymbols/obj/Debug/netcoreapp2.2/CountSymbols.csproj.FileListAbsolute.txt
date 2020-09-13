@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\CountSymbols\obj\Debug\netcoreapp2.2\CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\CountSymbols\obj\Debug\netcoreapp2.2\CountSymbols.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\CountSymbols\obj\Debug\netcoreapp2.2\CountSymbols.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\CountSymbols\bin\Debug\netcoreapp2.2\CountSymbols.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\CountSymbols\bin\Debug\netcoreapp2.2\CountSymbols.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\CountSymbols\bin\Debug\netcoreapp2.2\CountSymbols.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\CountSymbols\bin\Debug\netcoreapp2.2\CountSymbols.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\CountSymbols\bin\Debug\netcoreapp2.2\CountSymbols.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\CountSymbols\obj\Debug\netcoreapp2.2\CountSymbols.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\CountSymbols\obj\Debug\netcoreapp2.2\CountSymbols.pdb

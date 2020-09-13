@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\EvenTimes\bin\Debug\netcoreapp2.2\EvenTimes.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\EvenTimes\bin\Debug\netcoreapp2.2\EvenTimes.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\EvenTimes\bin\Debug\netcoreapp2.2\EvenTimes.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\EvenTimes\bin\Debug\netcoreapp2.2\EvenTimes.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\EvenTimes\bin\Debug\netcoreapp2.2\EvenTimes.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\EvenTimes\obj\Debug\netcoreapp2.2\EvenTimes.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\EvenTimes\obj\Debug\netcoreapp2.2\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\EvenTimes\obj\Debug\netcoreapp2.2\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\EvenTimes\obj\Debug\netcoreapp2.2\EvenTimes.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\EvenTimes\obj\Debug\netcoreapp2.2\EvenTimes.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\SetsAndDictionaries\EvenTimes\obj\Debug\netcoreapp2.2\EvenTimes.pdb

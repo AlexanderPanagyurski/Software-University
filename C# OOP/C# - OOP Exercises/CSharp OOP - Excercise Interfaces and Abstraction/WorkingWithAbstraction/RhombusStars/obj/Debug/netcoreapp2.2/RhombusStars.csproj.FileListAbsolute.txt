@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\RhombusStars\bin\Debug\netcoreapp2.2\RhombusStars.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\RhombusStars\bin\Debug\netcoreapp2.2\RhombusStars.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\RhombusStars\bin\Debug\netcoreapp2.2\RhombusStars.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\RhombusStars\bin\Debug\netcoreapp2.2\RhombusStars.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\RhombusStars\bin\Debug\netcoreapp2.2\RhombusStars.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\RhombusStars\obj\Debug\netcoreapp2.2\RhombusStars.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\RhombusStars\obj\Debug\netcoreapp2.2\RhombusStars.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\RhombusStars\obj\Debug\netcoreapp2.2\RhombusStars.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\RhombusStars\obj\Debug\netcoreapp2.2\RhombusStars.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\RhombusStars\obj\Debug\netcoreapp2.2\RhombusStars.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstraction\RhombusStars\obj\Debug\netcoreapp2.2\RhombusStars.csprojAssemblyReference.cache

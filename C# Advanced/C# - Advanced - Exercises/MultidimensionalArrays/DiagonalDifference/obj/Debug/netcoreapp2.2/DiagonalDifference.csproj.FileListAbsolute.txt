@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.pdb

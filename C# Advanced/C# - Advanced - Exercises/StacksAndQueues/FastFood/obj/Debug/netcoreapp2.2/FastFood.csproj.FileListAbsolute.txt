@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.2\FastFood.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.2\FastFood.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.2\FastFood.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.2\FastFood.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.2\FastFood.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.2\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.2\FastFood.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.2\FastFood.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.2\FastFood.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.2\FastFood.pdb

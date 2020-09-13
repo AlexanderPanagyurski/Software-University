@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\BombTheBasement\bin\Debug\netcoreapp2.2\BombTheBasement.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\BombTheBasement\bin\Debug\netcoreapp2.2\BombTheBasement.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\BombTheBasement\bin\Debug\netcoreapp2.2\BombTheBasement.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\BombTheBasement\bin\Debug\netcoreapp2.2\BombTheBasement.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\BombTheBasement\bin\Debug\netcoreapp2.2\BombTheBasement.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\BombTheBasement\obj\Debug\netcoreapp2.2\BombTheBasement.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\BombTheBasement\obj\Debug\netcoreapp2.2\BombTheBasement.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\BombTheBasement\obj\Debug\netcoreapp2.2\BombTheBasement.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\BombTheBasement\obj\Debug\netcoreapp2.2\BombTheBasement.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\BombTheBasement\obj\Debug\netcoreapp2.2\BombTheBasement.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\MultidimensionalArrays\BombTheBasement\obj\Debug\netcoreapp2.2\BombTheBasement.pdb

@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\WorkingWithAbstractionExercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.pdb

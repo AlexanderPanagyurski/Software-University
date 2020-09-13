@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\HotPotatoe\bin\Debug\netcoreapp2.2\HotPotatoe.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\HotPotatoe\bin\Debug\netcoreapp2.2\HotPotatoe.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\HotPotatoe\bin\Debug\netcoreapp2.2\HotPotatoe.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\HotPotatoe\bin\Debug\netcoreapp2.2\HotPotatoe.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\HotPotatoe\bin\Debug\netcoreapp2.2\HotPotatoe.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\HotPotatoe\obj\Debug\netcoreapp2.2\HotPotatoe.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\HotPotatoe\obj\Debug\netcoreapp2.2\HotPotatoe.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\HotPotatoe\obj\Debug\netcoreapp2.2\HotPotatoe.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\HotPotatoe\obj\Debug\netcoreapp2.2\HotPotatoe.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\HotPotatoe\obj\Debug\netcoreapp2.2\HotPotatoe.pdb

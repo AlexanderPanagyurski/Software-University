@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\CupAndBottles\bin\Debug\netcoreapp2.2\CupAndBottles.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\CupAndBottles\bin\Debug\netcoreapp2.2\CupAndBottles.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\CupAndBottles\bin\Debug\netcoreapp2.2\CupAndBottles.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\CupAndBottles\bin\Debug\netcoreapp2.2\CupAndBottles.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\CupAndBottles\bin\Debug\netcoreapp2.2\CupAndBottles.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\CupAndBottles\obj\Debug\netcoreapp2.2\CupAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\CupAndBottles\obj\Debug\netcoreapp2.2\CupAndBottles.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\CupAndBottles\obj\Debug\netcoreapp2.2\CupAndBottles.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\CupAndBottles\obj\Debug\netcoreapp2.2\CupAndBottles.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\CupAndBottles\obj\Debug\netcoreapp2.2\CupAndBottles.pdb

@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.csprojAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.pdb

@@ -1,0 +1,10 @@
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MakeASalad\bin\Debug\netcoreapp2.2\MakeASalad.deps.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MakeASalad\bin\Debug\netcoreapp2.2\MakeASalad.runtimeconfig.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MakeASalad\bin\Debug\netcoreapp2.2\MakeASalad.runtimeconfig.dev.json
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MakeASalad\bin\Debug\netcoreapp2.2\MakeASalad.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MakeASalad\bin\Debug\netcoreapp2.2\MakeASalad.pdb
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MakeASalad\obj\Debug\netcoreapp2.2\MakeASalad.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MakeASalad\obj\Debug\netcoreapp2.2\MakeASalad.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MakeASalad\obj\Debug\netcoreapp2.2\MakeASalad.AssemblyInfo.cs
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MakeASalad\obj\Debug\netcoreapp2.2\MakeASalad.dll
+C:\Users\home\Documents\Visual Studio 2017\Projects\StacksAndQueues\MakeASalad\obj\Debug\netcoreapp2.2\MakeASalad.pdb
