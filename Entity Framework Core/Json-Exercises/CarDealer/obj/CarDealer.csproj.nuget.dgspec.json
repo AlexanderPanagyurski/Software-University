@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Json-Exercises\\ProductShop\\ProductShop.csproj": {}
+    "C:\\Users\\home\\Desktop\\Entity Framework Core\\Entity Framework Core - Exercises\\Json-Exercises\\CarDealer\\CarDealer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Json-Exercises\\ProductShop\\ProductShop.csproj": {
+    "C:\\Users\\home\\Desktop\\Entity Framework Core\\Entity Framework Core - Exercises\\Json-Exercises\\CarDealer\\CarDealer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Json-Exercises\\ProductShop\\ProductShop.csproj",
-        "projectName": "ProductShop",
-        "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Json-Exercises\\ProductShop\\ProductShop.csproj",
+        "projectUniqueName": "C:\\Users\\home\\Desktop\\Entity Framework Core\\Entity Framework Core - Exercises\\Json-Exercises\\CarDealer\\CarDealer.csproj",
+        "projectName": "CarDealer",
+        "projectPath": "C:\\Users\\home\\Desktop\\Entity Framework Core\\Entity Framework Core - Exercises\\Json-Exercises\\CarDealer\\CarDealer.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Json-Exercises\\ProductShop\\obj\\",
+        "outputPath": "C:\\Users\\home\\Desktop\\Entity Framework Core\\Entity Framework Core - Exercises\\Json-Exercises\\CarDealer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -47,23 +47,11 @@
               "target": "Package",
               "version": "[7.0.1, )"
             },
-            "CsvHelper": {
-              "target": "Package",
-              "version": "[15.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[2.1.1, )"
-            },
             "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
               "version": "[2.1.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[2.1.1, )"
-            },
-            "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[2.1.1, )"
             },

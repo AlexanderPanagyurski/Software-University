@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Linq;
+using System.Text;
 using AutoMapper;
+using CsvHelper;
 using Newtonsoft.Json;
 using ProductShop.Data;
 using ProductShop.Models;
@@ -178,21 +181,21 @@ namespace ProductShop
                             products = u
                                 .ProductsSold
                                 .Where(ps => ps.Buyer != null)
-                                .Select(p=>new
+                                .Select(p => new
                                 {
-                                    name=p.Name,
-                                    price=p.Price
+                                    name = p.Name,
+                                    price = p.Price
                                 })
                                 .ToArray()
                         }
                     })
-                    .OrderByDescending(u=>u.soldProducts.count)
+                    .OrderByDescending(u => u.soldProducts.count)
                     .ToArray();
 
             var resultObj = new
             {
-                usersCount=users.Length,
-                users=users
+                usersCount = users.Length,
+                users = users
             };
 
             string json = JsonConvert.SerializeObject(resultObj, Formatting.Indented,
@@ -203,6 +206,5 @@ namespace ProductShop
 
             return json;
         }
-
     }
 }
