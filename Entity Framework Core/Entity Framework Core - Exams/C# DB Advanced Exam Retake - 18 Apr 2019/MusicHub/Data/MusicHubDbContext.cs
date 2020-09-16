@@ -1,7 +1,8 @@
 ﻿namespace MusicHub.Data
 {
     using Microsoft.EntityFrameworkCore;
-    using MusicHub.Data.Models;
+
+    using Models;
 
     public class MusicHubDbContext : DbContext
     {
@@ -14,6 +15,13 @@
         {
         }
 
+        public DbSet<Album> Albums { get; set; }
+        public DbSet<Performer> Performers { get; set; }
+        public DbSet<Producer> Producers { get; set; }
+        public DbSet<Song> Songs { get; set; }
+        public DbSet<SongPerformer> SongsPerformers { get; set; }
+        public DbSet<Writer> Writers { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
@@ -25,20 +33,12 @@
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            builder.Entity<SongPerformer>(entity =>
-            {
-                entity.HasKey(sp => new { sp.SongId, sp.PerformerId });
-
-                entity
-                    .HasOne(sp => sp.Song)
-                    .WithMany(s => s.SongPerformers)
-                    .OnDelete(DeleteBehavior.Restrict);
-
-                entity
-                    .HasOne(sp => sp.Performer)
-                    .WithMany(p => p.PerformerSongs)
-                    .OnDelete(DeleteBehavior.Restrict);
-            });
+            builder.Entity<SongPerformer>()
+                .HasKey(k => new
+                {
+                    k.SongId,
+                    k.PerformerId
+                });
         }
     }
 }

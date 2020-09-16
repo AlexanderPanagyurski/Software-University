@@ -1,21 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Text;
-
-namespace MusicHub.Data.Models
+﻿namespace MusicHub.Data.Models
 {
+    using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
+
     public class Writer
     {
-        [Key]
+        public Writer()
+        {
+            this.Songs = new HashSet<Song>();
+        }
+
         public int Id { get; set; }
 
         [Required]
-        [MaxLength(20)]
+        [MinLength(3), MaxLength(20)]
         public string Name { get; set; }
 
+        [RegularExpression("[A-Z][a-z]+ [A-Z][a-z]+")]
         public string Pseudonym { get; set; }
 
-        public virtual ICollection<Song> Songs { get; set; } = new HashSet<Song>();
+        public ICollection<Song> Songs { get; set; }
     }
 }
