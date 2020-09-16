@@ -206,5 +206,25 @@ namespace ProductShop
 
             return json;
         }
+        public static void ExportProductsToCsv(ProductShopContext context)
+        {
+            var products = context
+                    .Products
+                    .Select(x => new Product
+                    {
+                        Id = x.Id,
+                        Name = x.Name,
+                        Price = x.Price,
+                        Buyer=x.Buyer,
+                        Seller=x.Seller,
+                    })
+                    .ToArray();
+
+            using (var writer = new StreamWriter(ResultDirectoryPath + "/products.csv"))
+            using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
+            {
+                csv.WriteRecords(products);
+            }
+        }
     }
 }

@@ -21,3 +21,4 @@ C:\Users\home\Desktop\Software-University\Entity Framework Core\Json-Exercises\P
 C:\Users\home\Desktop\Software-University\Entity Framework Core\Json-Exercises\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
 C:\Users\home\Desktop\Software-University\Entity Framework Core\Json-Exercises\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
 C:\Users\home\Desktop\Software-University\Entity Framework Core\Json-Exercises\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Json-Exercises\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache

@@ -7,6 +7,9 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text;
+using System.Xml;
+using System.Xml.Serialization;
 
 namespace ProductShop
 {
@@ -32,13 +35,13 @@ namespace ProductShop
             //var categoryProductsXml = File.ReadAllText("../../../Datasets/categories-products.xml");
             //Console.WriteLine(ImportCategoryProducts(db, categoryProductsXml));
 
-            string xml = GetCategoriesByProductsCount(db);
+            string xml = GetSoldProducts(db);
 
             if (!Directory.Exists(ResultDirectoryPath))
             {
                 Directory.CreateDirectory(ResultDirectoryPath);
             }
-            File.WriteAllText(ResultDirectoryPath + "/categories-by-products-count.xml", xml);
+            File.WriteAllText(ResultDirectoryPath + "/users-with-products.xml", xml);
 
             Console.WriteLine(xml);
         }
