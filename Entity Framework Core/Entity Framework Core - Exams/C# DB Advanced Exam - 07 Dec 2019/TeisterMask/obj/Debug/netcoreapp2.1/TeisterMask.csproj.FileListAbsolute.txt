@@ -9,3 +9,4 @@ C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework
 C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 07 Dec 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.dll
 C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 07 Dec 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.pdb
 C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 07 Dec 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.genruntimeconfig.cache
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 07 Dec 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.csprojAssemblyReference.cache
