@@ -1,0 +1,11 @@
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exams\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache
