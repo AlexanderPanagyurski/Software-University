@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bO/dOAgnmKVddbhITIekORYklYt926R1Wkb1LSmKvxNbg2UqVu9eWwr1V7L/gzgXS3zHJNE6oDG9N1guQWp4yA==",
+  "dgSpecHash": "SnA0fRbiXosK978UfV5nw5+HJufLGzIe4kS0PmR8+esWjKwPg59BVpzWQKDu5RsE8FRljquPcpNOF1YYIHuwTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\home\\Desktop\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Core\\FastFood.Core.csproj",
+  "projectFilePath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Core\\FastFood.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\home\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\home\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

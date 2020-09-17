@@ -31,7 +31,7 @@ namespace RealEstates.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=.;Database=RealEstate;Integrated Security=true;");
+                optionsBuilder.UseSqlServer(@"Server=DESKTOP-Q9P5HVT\SQLEXPRESS;Database=RealEstate;Integrated Security=true;");
             }
         }
 

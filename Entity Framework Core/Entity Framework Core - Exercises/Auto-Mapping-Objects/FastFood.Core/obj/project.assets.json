@@ -5017,11 +5017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\home\\Desktop\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Core\\FastFood.Core.csproj",
+      "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Core\\FastFood.Core.csproj",
       "projectName": "FastFood.Core",
-      "projectPath": "C:\\Users\\home\\Desktop\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Core\\FastFood.Core.csproj",
+      "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Core\\FastFood.Core.csproj",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\home\\Desktop\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Core\\obj\\",
+      "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5042,8 +5042,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\home\\Desktop\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Data\\FastFood.Data.csproj": {
-              "projectPath": "C:\\Users\\home\\Desktop\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Data\\FastFood.Data.csproj"
+            "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Data\\FastFood.Data.csproj": {
+              "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Data\\FastFood.Data.csproj"
             }
           }
         }
@@ -5090,7 +5090,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

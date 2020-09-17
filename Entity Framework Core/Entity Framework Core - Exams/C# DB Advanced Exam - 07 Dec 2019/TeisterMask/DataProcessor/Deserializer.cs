@@ -7,6 +7,11 @@
     using ValidationContext = System.ComponentModel.DataAnnotations.ValidationContext;
 
     using Data;
+    using Newtonsoft.Json;
+    using TeisterMask.DataProcessor.ImportDto;
+    using System.Text;
+    using TeisterMask.Data.Models;
+    using System.Linq;
 
     public class Deserializer
     {
@@ -20,12 +25,62 @@
 
         public static string ImportProjects(TeisterMaskContext context, string xmlString)
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         public static string ImportEmployees(TeisterMaskContext context, string jsonString)
         {
-            throw new NotImplementedException();
+            var employeesDto = JsonConvert.DeserializeObject<ImportEmployeeWithTasksDto[]>(jsonString);
+
+            List<Employee> employees = new List<Employee>();
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var employeeDto in employeesDto)
+            {
+                bool isValidEmployee = IsValid(employeeDto);
+
+                if (isValidEmployee == false)
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+                Employee employee = new Employee
+                {
+                    Username = employeeDto.Username,
+                    Email = employeeDto.Email,
+                    Phone = employeeDto.Phone
+                };
+
+                foreach (var taskId in employeeDto.Tasks.Distinct())
+                {
+                    Task task = context.Tasks.Find(taskId);
+
+                    if (task == null)
+                    {
+                        sb.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    employee.EmployeesTasks.Add(
+                        new EmployeeTask
+                        {
+                            TaskId = task.Id
+                        });
+                }
+
+                employees.Add(employee);
+
+                sb.AppendLine(string.Format(SuccessfullyImportedEmployee,
+                    employee.Username,
+                    employee.EmployeesTasks.Count));
+            }
+
+            context.Employees.AddRange(employees);
+            context.SaveChanges();
+
+            return sb.ToString().TrimEnd();
         }
 
         private static bool IsValid(object dto)

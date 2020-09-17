@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m1Er7XEks17Gp9DD05zhb0P7KHHoycIGB8oyuXlu4uOYab3FAGD69hA7iX8vBUbGxByLZGRnccRcK007V5WtSw==",
+  "dgSpecHash": "Ry5Hb4WDOpLqzWmnVDZLHjfWHR0fqu2P5G6y7EVNoGDU43MSQYUvAFYIb+V5ou5dQQocunBvkGmmqRoQ6Jdwag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\home\\Desktop\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Models\\FastFood.Models.csproj",
+  "projectFilePath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\Auto-Mapping-Objects\\FastFood.Models\\FastFood.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

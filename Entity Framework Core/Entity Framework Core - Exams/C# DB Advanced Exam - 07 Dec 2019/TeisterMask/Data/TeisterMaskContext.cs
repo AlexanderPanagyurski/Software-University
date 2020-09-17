@@ -42,6 +42,14 @@
                     .WithMany(t => t.EmployeesTasks)
                     .OnDelete(DeleteBehavior.Restrict);
             });
+
+            modelBuilder.Entity<Task>(entity =>
+            {
+                entity
+                    .HasOne(t => t.Project)
+                    .WithMany(p => p.Tasks)
+                    .OnDelete(DeleteBehavior.Restrict);
+            });
         }
     }
 }

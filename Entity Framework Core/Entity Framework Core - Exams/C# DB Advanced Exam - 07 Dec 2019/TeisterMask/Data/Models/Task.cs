@@ -28,7 +28,7 @@ namespace TeisterMask.Data.Models
 
         [ForeignKey(nameof(Project))]
         public int ProjectId { get; set; }
-        public Project Project { get; set; }
+        public virtual Project Project { get; set; }
 
         public virtual ICollection<EmployeeTask> EmployeesTasks { get; set; } = new HashSet<EmployeeTask>();
     }

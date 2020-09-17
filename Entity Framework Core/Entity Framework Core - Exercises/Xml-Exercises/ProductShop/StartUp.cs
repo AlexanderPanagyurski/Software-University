@@ -41,7 +41,7 @@ namespace ProductShop
             {
                 Directory.CreateDirectory(ResultDirectoryPath);
             }
-            File.WriteAllText(ResultDirectoryPath + "/users-with-products.xml", xml);
+            File.WriteAllText(ResultDirectoryPath + "/users-with-sold-products.xml", xml);
 
             Console.WriteLine(xml);
         }

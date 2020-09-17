@@ -9,3 +9,4 @@ C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework
 C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\Xml-Exercises\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
 C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\Xml-Exercises\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
 C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\Xml-Exercises\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\Xml-Exercises\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache

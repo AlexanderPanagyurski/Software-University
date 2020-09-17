@@ -1,0 +1,13 @@
+C:\Users\home\Desktop\Software-University\C# Web Basics\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\HttpClientDemo.exe
+C:\Users\home\Desktop\Software-University\C# Web Basics\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\HttpClientDemo.deps.json
+C:\Users\home\Desktop\Software-University\C# Web Basics\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\HttpClientDemo.runtimeconfig.json
+C:\Users\home\Desktop\Software-University\C# Web Basics\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\HttpClientDemo.runtimeconfig.dev.json
+C:\Users\home\Desktop\Software-University\C# Web Basics\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\HttpClientDemo.dll
+C:\Users\home\Desktop\Software-University\C# Web Basics\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\HttpClientDemo.pdb
+C:\Users\home\Desktop\Software-University\C# Web Basics\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.csprojAssemblyReference.cache
+C:\Users\home\Desktop\Software-University\C# Web Basics\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Software-University\C# Web Basics\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.AssemblyInfo.cs
+C:\Users\home\Desktop\Software-University\C# Web Basics\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Software-University\C# Web Basics\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.dll
+C:\Users\home\Desktop\Software-University\C# Web Basics\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.pdb
+C:\Users\home\Desktop\Software-University\C# Web Basics\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.genruntimeconfig.cache
