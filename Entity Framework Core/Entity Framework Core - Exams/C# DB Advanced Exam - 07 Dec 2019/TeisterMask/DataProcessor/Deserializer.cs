@@ -12,6 +12,10 @@
     using System.Text;
     using TeisterMask.Data.Models;
     using System.Linq;
+    using TeisterMask.Data.Models.Enums;
+    using System.Globalization;
+    using System.Xml.Serialization;
+    using System.IO;
 
     public class Deserializer
     {
@@ -25,7 +29,86 @@
 
         public static string ImportProjects(TeisterMaskContext context, string xmlString)
         {
-            return null;
+            var xmlSerializer = new XmlSerializer(
+               typeof(ImportProjectWithTasksDto[]), new XmlRootAttribute("Projects"));
+            var projectsDto = (ImportProjectWithTasksDto[])xmlSerializer.Deserialize(new StringReader(xmlString));
+
+            List<Project> projects = new List<Project>();
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var projectDto in projectsDto)
+            {
+                bool isValidProject = IsValid(projectDto);
+
+                if (isValidProject == false)
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+                Project project = new Project
+                {
+                    Name = projectDto.Name,
+                    OpenDate = DateTime.ParseExact(
+                        projectDto.OpenDate, @"dd/MM/yyyy", CultureInfo.InvariantCulture),
+                    DueDate = string.IsNullOrEmpty(projectDto.DueDate) ?
+                        (DateTime?)null :
+                        DateTime.ParseExact(
+                            projectDto.DueDate, @"dd/MM/yyyy", CultureInfo.InvariantCulture)
+                };
+
+                foreach (var taskDto in projectDto.Tasks)
+                {
+                    bool isValidTask = IsValid(taskDto);
+                    bool isValidExecutionType = Enum.IsDefined(typeof(ExecutionType), taskDto.ExecutionType);
+                    bool isValidLabelType = Enum.IsDefined(typeof(LabelType), taskDto.LabelType);
+
+                    if (isValidTask == false || isValidExecutionType == false || isValidLabelType == false)
+                    {
+                        sb.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    DateTime taskOpenDate = DateTime.ParseExact(
+                            taskDto.OpenDate, @"dd/MM/yyyy", CultureInfo.InvariantCulture);
+                    DateTime projectOpenDate = project.OpenDate;
+
+                    DateTime taskDueDate = DateTime.ParseExact(
+                            taskDto.DueDate, @"dd/MM/yyyy", CultureInfo.InvariantCulture);
+                    DateTime? projectDueDate = project.DueDate;
+
+                    if (taskOpenDate < projectOpenDate || taskDueDate > projectDueDate)
+                    {
+                        sb.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    Task task = new Task
+                    {
+                        Name = taskDto.Name,
+                        OpenDate = taskOpenDate,
+                        DueDate = taskDueDate,
+                        ExecutionType = (ExecutionType)Enum.ToObject(
+                            typeof(ExecutionType), taskDto.ExecutionType),
+                        LabelType = (LabelType)Enum.ToObject(
+                            typeof(LabelType), taskDto.LabelType)
+                    };
+
+                    project.Tasks.Add(task);
+                }
+
+                projects.Add(project);
+
+                sb.AppendLine(string.Format(SuccessfullyImportedProject,
+                    project.Name,
+                    project.Tasks.Count));
+            }
+
+            context.Projects.AddRange(projects);
+            context.SaveChanges();
+
+            return sb.ToString().TrimEnd();
         }
 
         public static string ImportEmployees(TeisterMaskContext context, string jsonString)
