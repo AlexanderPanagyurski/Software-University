@@ -45,6 +45,10 @@ namespace CarStore.Data
             modelBuilder.Entity<Car>(entity =>
             {
                 entity
+                    .Property(c => c.Description)
+                    .IsUnicode(true);
+
+                entity
                     .HasOne(c => c.Country)
                     .WithMany(x => x.Cars)
                     .OnDelete(DeleteBehavior.Restrict);
@@ -62,15 +66,40 @@ namespace CarStore.Data
                     .HasOne(ce => ce.Car)
                     .WithMany(c => c.CarImages)
                     .OnDelete(DeleteBehavior.Restrict);
-
             });
 
             modelBuilder.Entity<CarComment>(entity =>
             {
                 entity
+                    .Property(cc => cc.Content)
+                    .IsUnicode(true);
+
+                entity
                     .HasOne(cc => cc.Car)
                     .WithMany(c => c.CarComments)
                     .OnDelete(DeleteBehavior.Restrict);
+            });
+
+            modelBuilder.Entity<Country>(entity =>
+            {
+                entity
+                    .Property(c => c.Name)
+                    .IsUnicode(true);
+            });
+
+            modelBuilder.Entity<User>(entity =>
+            {
+                entity
+                    .Property(u => u.FirstName)
+                    .IsUnicode(true);
+
+                entity
+                    .Property(u => u.LastName)
+                    .IsUnicode(true);
+
+                entity
+                    .Property(u => u.Username)
+                    .IsUnicode(true);
             });
         }
     }

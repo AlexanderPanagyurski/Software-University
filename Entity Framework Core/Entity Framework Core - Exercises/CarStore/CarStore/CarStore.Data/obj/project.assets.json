@@ -6218,11 +6218,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Data\\CarStore.Data.csproj",
+      "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Data\\CarStore.Data.csproj",
       "projectName": "CarStore.Data",
-      "projectPath": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Data\\CarStore.Data.csproj",
+      "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Data\\CarStore.Data.csproj",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Data\\obj\\",
+      "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6243,11 +6243,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj": {
-              "projectPath": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj"
+            "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj": {
+              "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj"
             },
-            "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj": {
-              "projectPath": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj"
+            "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj": {
+              "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj"
             }
           }
         }
