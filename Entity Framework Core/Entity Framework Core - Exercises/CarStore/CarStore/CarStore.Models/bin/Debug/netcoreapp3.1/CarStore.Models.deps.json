@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CarStore.Models/1.0.0": {
+        "dependencies": {
+          "CarStore.Common": "1.0.0"
+        },
+        "runtime": {
+          "CarStore.Models.dll": {}
+        }
+      },
+      "CarStore.Common/1.0.0": {
+        "runtime": {
+          "CarStore.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarStore.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarStore.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

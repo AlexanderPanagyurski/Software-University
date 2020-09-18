@@ -1,0 +1,8 @@
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Common\bin\Debug\netcoreapp3.1\CarStore.Common.deps.json
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Common\bin\Debug\netcoreapp3.1\CarStore.Common.dll
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Common\bin\Debug\netcoreapp3.1\CarStore.Common.pdb
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Common\obj\Debug\netcoreapp3.1\CarStore.Common.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Common\obj\Debug\netcoreapp3.1\CarStore.Common.AssemblyInfo.cs
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Common\obj\Debug\netcoreapp3.1\CarStore.Common.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Common\obj\Debug\netcoreapp3.1\CarStore.Common.dll
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Common\obj\Debug\netcoreapp3.1\CarStore.Common.pdb

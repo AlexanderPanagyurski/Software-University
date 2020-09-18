@@ -1,0 +1,12 @@
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Models\bin\Debug\netcoreapp3.1\CarStore.Models.deps.json
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Models\bin\Debug\netcoreapp3.1\CarStore.Models.dll
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Models\bin\Debug\netcoreapp3.1\CarStore.Models.pdb
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Models\obj\Debug\netcoreapp3.1\CarStore.Models.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Models\obj\Debug\netcoreapp3.1\CarStore.Models.AssemblyInfo.cs
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Models\obj\Debug\netcoreapp3.1\CarStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Models\obj\Debug\netcoreapp3.1\CarStore.Models.dll
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Models\obj\Debug\netcoreapp3.1\CarStore.Models.pdb
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Models\obj\Debug\netcoreapp3.1\CarStore.Models.csprojAssemblyReference.cache
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Models\bin\Debug\netcoreapp3.1\CarStore.Common.dll
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Models\bin\Debug\netcoreapp3.1\CarStore.Common.pdb
+C:\Users\home\Desktop\CarStore\CarStore\CarStore.Models\obj\Debug\netcoreapp3.1\CarStore.Models.csproj.CopyComplete
