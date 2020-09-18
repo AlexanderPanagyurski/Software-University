@@ -49,5 +49,13 @@ namespace CarStore.Common
 
         public const byte EmailMaxLength = 50;
         #endregion
+
+        #region
+        public const byte CityMaxLength = 100;
+        #endregion
+
+        #region State
+        public const byte StateMaxLength = 100;
+        #endregion
     }
 }

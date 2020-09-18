@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj",
+      "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj",
       "projectName": "CarStore.Common",
-      "projectPath": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj",
+      "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Common\\obj\\",
+      "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
