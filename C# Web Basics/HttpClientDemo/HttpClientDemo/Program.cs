@@ -10,7 +10,7 @@ namespace HttpClientDemo
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
             const string NewLine = "\r\n";
@@ -29,18 +29,18 @@ namespace HttpClientDemo
                         Encoding.UTF8.GetString(buffer, 0, lenght);
                     Console.WriteLine(requestString);
 
-                    string html = $"<h1>Hello from AlexServer {DateTime.Now}</h1>" +
+                    string html = $"<h1>Hello from Alex's Server {DateTime.Now}</h1>" +
                         $"<form action=/tweet method=post><input name=username /><input name=password />" +
                         $"<input type=submit /></form>";
 
                     string response = "HTTP/1.1 200 OK" + NewLine +
-                        "Server: AlexServer 2020" + NewLine +
+                        "Server: Alex's Server 2020" + NewLine +
                         // "Location: https://www.google.com" + NewLine +
                         "Content-Type: text/html; charset=utf-8" + NewLine +
                         // "Content-Disposition: attachment; filename=niki.txt" + NewLine +
                         "Content-Lenght: " + html.Length + NewLine +
                         NewLine +
-                        html + NewLine;
+                        html + NewLine + $"{DateTime.Now}"+NewLine;
 
                     byte[] responseBytes = Encoding.UTF8.GetBytes(response);
                     stream.Write(responseBytes);
