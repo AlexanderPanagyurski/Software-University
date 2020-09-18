@@ -6,7 +6,7 @@ namespace CarStore.Models.Enums
 {
     public enum EuroEmissionType
     {
-        All = 0,
+        Unknown = 0,
         Euro1 = 1,
         Euro2 = 2,
         Euro3 = 3,

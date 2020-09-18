@@ -6,7 +6,7 @@ namespace CarStore.Models.Enums
 {
     public enum BodyType
     {
-        All = 0,
+        Unknown = 0,
         Convertable = 1,
         Coupe = 2,
         OffRoad = 3,

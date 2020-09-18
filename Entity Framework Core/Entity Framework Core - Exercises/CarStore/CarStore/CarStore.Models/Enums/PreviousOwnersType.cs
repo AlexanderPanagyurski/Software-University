@@ -6,7 +6,7 @@ namespace CarStore.Models.Enums
 {
     public enum PreviousOwnersType
     {
-        All = 0,
+        Unknown = 0,
         One = 1,
         Two = 2,
         Three = 3,

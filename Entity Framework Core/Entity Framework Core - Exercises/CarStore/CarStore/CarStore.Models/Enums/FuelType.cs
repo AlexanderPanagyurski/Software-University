@@ -6,7 +6,7 @@ namespace CarStore.Models.Enums
 {
     public enum FuelType
     {
-        All = 0,
+        Unknown = 0,
         Gasoline = 1,
         Diesel = 2,
         Ethanol = 3,

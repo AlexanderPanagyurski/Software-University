@@ -6,7 +6,7 @@ namespace CarStore.Models.Enums
 {
     public enum GearType
     {
-        All = 0,
+        Unknown = 0,
         Manual = 1,
         SemiAutomatic = 2,
         Automatic = 3
