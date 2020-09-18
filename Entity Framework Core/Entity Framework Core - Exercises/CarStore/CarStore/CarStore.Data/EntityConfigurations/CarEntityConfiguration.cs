@@ -24,6 +24,16 @@ namespace CarStore.Data.EntityConfigurations
                 .HasOne(c => c.Engine)
                 .WithMany(e => e.Cars)
                 .OnDelete(DeleteBehavior.Restrict);
+
+            builder
+                .HasOne(c => c.State)
+                .WithMany(s => s.Cars)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            builder
+                .HasOne(c => c.City)
+                .WithMany(x => x.Cars)
+                .OnDelete(DeleteBehavior.Restrict);
         }
     }
 }

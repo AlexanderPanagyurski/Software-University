@@ -5,19 +5,19 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CarStore.Data.Profiles
+namespace CarStore.Data.EntityConfigurations
 {
-    public class CarCommentEntityConfiguration : IEntityTypeConfiguration<CarComment>
+    public class CityEntityConfiguration : IEntityTypeConfiguration<City>
     {
-        public void Configure(EntityTypeBuilder<CarComment> builder)
+        public void Configure(EntityTypeBuilder<City> builder)
         {
             builder
-                .Property(cc => cc.Content)
+                .Property(c => c.Name)
                 .IsUnicode(true);
 
             builder
-                .HasOne(cc => cc.Car)
-                .WithMany(c => c.CarComments)
+                .HasOne(c => c.State)
+                .WithMany(s => s.Cities)
                 .OnDelete(DeleteBehavior.Restrict);
         }
     }

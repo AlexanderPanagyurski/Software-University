@@ -26,6 +26,11 @@ namespace CarStore.Data.EntityConfigurations
             builder
                 .Property(u => u.Username)
                 .IsUnicode(false);
+
+            builder
+                .HasOne(u => u.City)
+                .WithMany(c => c.Users)
+                .OnDelete(DeleteBehavior.Restrict);
         }
     }
 }
