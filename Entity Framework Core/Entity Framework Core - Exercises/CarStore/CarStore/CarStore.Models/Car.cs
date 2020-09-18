@@ -47,6 +47,14 @@ namespace CarStore.Models
         [Required]
         public GearType GearType { get; set; }
 
+        [ForeignKey(nameof(City))]
+        public string CityId { get; set; }
+        public virtual City  City{ get; set; }
+
+        [ForeignKey(nameof(State))]
+        public string StateId { get; set; }
+        public virtual State State { get; set; }
+
         [ForeignKey(nameof(Country))]
         public string CountryId { get; set; }
         public virtual Country Country { get; set; }

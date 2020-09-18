@@ -24,5 +24,7 @@ namespace CarStore.Models
         public string CarId { get; set; }
 
         public virtual ICollection<Car> Cars { get; set; } = new HashSet<Car>();
+
+        public virtual ICollection<State> States { get; set; } = new HashSet<State>();
     }
 }
