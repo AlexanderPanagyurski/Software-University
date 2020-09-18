@@ -40,9 +40,9 @@ namespace CarStore.Data
         public DbSet<User> Users { get; set; }
 
         //TODO: Fluent API
-        protected override void OnModelCreating(ModelBuilder builder)
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(builder);
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(CarStoreDbContext).Assembly);
         }
     }
 }
