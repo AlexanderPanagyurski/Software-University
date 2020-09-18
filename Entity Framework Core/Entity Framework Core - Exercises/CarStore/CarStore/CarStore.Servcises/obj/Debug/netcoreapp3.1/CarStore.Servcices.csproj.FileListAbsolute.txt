@@ -1,0 +1,16 @@
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\bin\Debug\netcoreapp3.1\CarStore.Servcices.deps.json
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\bin\Debug\netcoreapp3.1\CarStore.Servcices.dll
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\bin\Debug\netcoreapp3.1\CarStore.Servcices.pdb
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\bin\Debug\netcoreapp3.1\CarStore.Common.dll
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\bin\Debug\netcoreapp3.1\CarStore.Data.dll
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\bin\Debug\netcoreapp3.1\CarStore.Models.dll
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\bin\Debug\netcoreapp3.1\CarStore.Data.pdb
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\bin\Debug\netcoreapp3.1\CarStore.Models.pdb
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\bin\Debug\netcoreapp3.1\CarStore.Common.pdb
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\obj\Debug\netcoreapp3.1\CarStore.Servcices.csprojAssemblyReference.cache
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\obj\Debug\netcoreapp3.1\CarStore.Servcices.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\obj\Debug\netcoreapp3.1\CarStore.Servcices.AssemblyInfo.cs
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\obj\Debug\netcoreapp3.1\CarStore.Servcices.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\obj\Debug\netcoreapp3.1\CarStore.Servcices.csproj.CopyComplete
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\obj\Debug\netcoreapp3.1\CarStore.Servcices.dll
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.Servcises\obj\Debug\netcoreapp3.1\CarStore.Servcices.pdb
