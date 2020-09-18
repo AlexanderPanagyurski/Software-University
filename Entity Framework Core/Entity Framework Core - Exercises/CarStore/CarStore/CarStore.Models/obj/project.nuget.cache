@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PMYAIiikxyLgOf2b6EabsFwULpfAORNPiwQ2b5pLFRjwWXcXQof1jkkDlJQC6LZ7NaLYk6IV1D3KAzNBSH/Ogw==",
+  "dgSpecHash": "ush9mN6pY43Fr3z5BuRv1l5tJqBjEd+VouN0XBgiF4+ZKxVKTRVvqa3mzqA8W52MFWxkA3YL7rBfE0UJ3kyjCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj",
+  "projectFilePath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj": {}
+    "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj": {
+    "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj",
+        "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj",
         "projectName": "CarStore.Common",
-        "projectPath": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj",
+        "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Common\\obj\\",
+        "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj": {
+    "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj",
+        "projectUniqueName": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj",
         "projectName": "CarStore.Models",
-        "projectPath": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj",
+        "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Models\\CarStore.Models.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Models\\obj\\",
+        "outputPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj": {
-                "projectPath": "C:\\Users\\home\\Desktop\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj"
+              "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj": {
+                "projectPath": "C:\\Users\\home\\Desktop\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\CarStore\\CarStore\\CarStore.Common\\CarStore.Common.csproj"
               }
             }
           }

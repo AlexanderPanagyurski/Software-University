@@ -44,5 +44,9 @@ namespace CarStore.Models
         [ForeignKey(nameof(Car))]
         public string CarId { get; set; }
         public virtual Car Car { get; set; }
+
+        [ForeignKey(nameof(City))]
+        public string CityId { get; set; }
+        public virtual City City { get; set; }
     }
 }
