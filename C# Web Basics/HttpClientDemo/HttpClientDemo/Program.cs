@@ -10,10 +10,11 @@ namespace HttpClientDemo
 {
     class Program
     {
+        private const string NewLine = "\r\n";
         static async Task Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            const string NewLine = "\r\n";
+
             TcpListener tcpListener = new TcpListener(
                 IPAddress.Loopback, 80);
             tcpListener.Start();
@@ -30,17 +31,10 @@ namespace HttpClientDemo
                     Console.WriteLine(requestString);
 
                     string html = $"<h1>Hello from Alex's Server {DateTime.Now}</h1>" +
-                        $"<form action=/tweet method=post><input name=username /><input name=password />" +
+                        $"<form action=/tweet method=post><input type=username /><input type=password />" +
                         $"<input type=submit /></form>";
 
-                    string response = "HTTP/1.1 200 OK" + NewLine +
-                        "Server: Alex's Server 2020" + NewLine +
-                        // "Location: https://www.google.com" + NewLine +
-                        "Content-Type: text/html; charset=utf-8" + NewLine +
-                        // "Content-Disposition: attachment; filename=niki.txt" + NewLine +
-                        "Content-Lenght: " + html.Length + NewLine +
-                        NewLine +
-                        html + NewLine + $"{DateTime.Now}"+NewLine;
+                    string response = OpenHttpServerLocalHost(html);
 
                     byte[] responseBytes = Encoding.UTF8.GetBytes(response);
                     stream.Write(responseBytes);
@@ -49,7 +43,29 @@ namespace HttpClientDemo
                 }
             }
         }
+        private static string OpenHttpServerLocalHost(string html)
+        {
+            html= "<img src=\"https://http.cat/200\" width=\"520\" height=\"440\" >";
 
+            return "HTTP/1.1 200 OK" + NewLine +
+                        "Server: Alex's Server 2020" + NewLine +
+                        "Content-Type: text/html; charset=utf-8" + NewLine +
+                        "Content-Lenght: " + html.Length + NewLine +
+                        NewLine +
+                        html + NewLine + "<h1>Server: Alex's Server 2020, </h1>" + $"{DateTime.Now}" + NewLine;
+        }
+
+        private static string HttpRedirectToWebsite(string link, string html)
+        {
+            return "HTTP/1.1 307 Temporary Redirect" + NewLine +
+                        "Server: Alex's Server 2020" + NewLine +
+                         "Location: " + link + NewLine +
+                        "Content-Type: text/html; charset=utf-8" + NewLine +
+                        // "Content-Disposition: attachment; filename=niki.txt" + NewLine +
+                        "Content-Lenght: " + html.Length + NewLine +
+                        NewLine +
+                        html + NewLine + $"{DateTime.Now}" + NewLine;
+        }
         public static async Task ReadData()
         {
             string url = "https://softuni.bg/courses/csharp-web-basics";
