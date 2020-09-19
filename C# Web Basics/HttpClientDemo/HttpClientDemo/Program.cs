@@ -45,14 +45,14 @@ namespace HttpClientDemo
         }
         private static string OpenHttpServerLocalHost(string html)
         {
-            html= "<img src=\"https://http.cat/200\" width=\"520\" height=\"440\" >";
+            html = "<h1>Hello from Alex's Server </h1>" + NewLine + $"<h2>{DateTime.Now}</h2>" + "<img src=\"https://http.cat/200\" width=\"520\" height=\"440\" >";
 
             return "HTTP/1.1 200 OK" + NewLine +
                         "Server: Alex's Server 2020" + NewLine +
                         "Content-Type: text/html; charset=utf-8" + NewLine +
                         "Content-Lenght: " + html.Length + NewLine +
                         NewLine +
-                        html + NewLine + "<h1>Server: Alex's Server 2020, </h1>" + $"{DateTime.Now}" + NewLine;
+                        html + NewLine;
         }
 
         private static string HttpRedirectToWebsite(string link, string html)
