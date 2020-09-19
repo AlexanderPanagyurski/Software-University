@@ -1,4 +1,4 @@
-console.log(GetAreaOfTriangle(11,6,8))
+console.log(IsLeapYearInGregorianCalendar(2019))
 
 
 //1. Write a JavaScript program to display the current day and time in the following format. 
@@ -37,11 +37,15 @@ function GetCurrentDateInFormat(input){
     return today
 }
 
-//3.  Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
+//3. Write a JavaScript program to find the area of a triangle
+// where lengths of the three of its sides are 5, 6, 7.
 function GetAreaOfTriangle(a,b,c){
     var semiPerimeter=(a+b+c)/2
 
     return Math.sqrt(semiPerimeter*(semiPerimeter-a)*(semiPerimeter-b)*(semiPerimeter-c)).toFixed(2)
 }
 
-//
+//4. Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar
+function IsLeapYearInGregorianCalendar(year){
+    return (year % 100 === 0) ? (year % 400 === 0) : (year % 4 === 0);
+}
