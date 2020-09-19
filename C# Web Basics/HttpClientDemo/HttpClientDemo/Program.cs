@@ -45,6 +45,8 @@ namespace HttpClientDemo
         }
         private static string OpenHttpServerLocalHost(string html)
         {
+
+
             html = "<h1>Hello from Alex's Server </h1>" + NewLine + $"<h2>{DateTime.Now}</h2>" + "<img src=\"https://http.cat/200\" width=\"520\" height=\"440\" >";
 
             return "HTTP/1.1 200 OK" + NewLine +
@@ -61,10 +63,7 @@ namespace HttpClientDemo
                         "Server: Alex's Server 2020" + NewLine +
                          "Location: " + link + NewLine +
                         "Content-Type: text/html; charset=utf-8" + NewLine +
-                        // "Content-Disposition: attachment; filename=niki.txt" + NewLine +
-                        "Content-Lenght: " + html.Length + NewLine +
-                        NewLine +
-                        html + NewLine + $"{DateTime.Now}" + NewLine;
+                        "Content-Lenght: " + html.Length + NewLine;
         }
         public static async Task ReadData()
         {
@@ -74,9 +73,6 @@ namespace HttpClientDemo
             Console.WriteLine(response.StatusCode);
             Console.WriteLine(string.Join(Environment.NewLine,
                 response.Headers.Select(x => x.Key + ": " + x.Value.First())));
-
-            // var html = await httpClient.GetStringAsync(url);
-            // Console.WriteLine(html);
         }
     }
 }
