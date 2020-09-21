@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HdN5E4Nmir7RCNYYgUidW7C5hwl5r35Gvqc5rtB+RSyQ5jSixJQH6xiG8Je7QMWFYq2H5SyrOztKAsmHqazCPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\home\\Desktop\\Software-University\\C# Web Basics\\SIS\\SIS.Common\\SIS.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\home\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
