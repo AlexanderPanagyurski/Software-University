@@ -55,6 +55,8 @@ namespace SIS.HTTP
             };
 
             bool isInHeader = true;
+            StringBuilder sb = new StringBuilder();
+
             for (int i = 1; i < lines.Length; i++)
             {
                 var line = lines[i];
@@ -65,11 +67,17 @@ namespace SIS.HTTP
                 }
                 if (isInHeader)
                 {
-
+                    var headerParts = line.Split(new string[] { ": " }, 2, StringSplitOptions.None);
+                    if (headerParts.Length != 2)
+                    {
+                        throw new HttpServerException($"Invalid Header: {line}");
+                    }
+                    var header = new Header(headerParts[0], headerParts[1]);
+                    this.Headers.Add(header);
                 }
                 else
                 {
-
+                    sb.AppendLine(line);
                 }
             }
         }
@@ -79,7 +87,7 @@ namespace SIS.HTTP
 
         public HttpVersionType Version { get; set; }
 
-        public IEnumerable<Header> Headers { get; set; }
+        public IList<Header> Headers { get; set; }
 
         public string Body { get; set; }
     }

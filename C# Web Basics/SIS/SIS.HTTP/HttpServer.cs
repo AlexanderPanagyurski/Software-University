@@ -47,8 +47,19 @@ namespace SIS.HTTP
             using NetworkStream networkStream = tcpClient.GetStream();
             byte[] requestBytes = new byte[1000000];
             int byteRead = await networkStream.ReadAsync(requestBytes, 0, requestBytes.Length);
-            string request = Encoding.UTF8.GetString(requestBytes, 0, byteRead);
-            byte[] fileContent = Encoding.UTF8.GetBytes("<form method='post'><input name='username' /><input type='submit' /></form><h1>Hello, World</h1>");
+            string requestAsString  = Encoding.UTF8.GetString(requestBytes, 0, byteRead);
+
+            var request = new HttpRequest(requestAsString);
+            string content = "<h1>Random Page</h1>";
+            if (request.Path == "/")
+            {
+                content = "<h1>Home Page</h1>";
+            }
+            else if (request.Path == "/users/login")
+            {
+                content= "<h1>Login Page</h1>";
+            }
+            byte[] fileContent = Encoding.UTF8.GetBytes(content);
             string headers = "HTTP/1.0 200 OK" + GlobalConstants.HttpNewLine +
                              "Server: SoftUniServer/1.0" + GlobalConstants.HttpNewLine +
                              "Content-Type: text/html" + GlobalConstants.HttpNewLine +
