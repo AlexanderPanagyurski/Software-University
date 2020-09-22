@@ -1,4 +1,5 @@
 ﻿using SIS.Common;
+using SIS.HTTP.Enums;
 using SIS.HTTP.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -59,15 +60,14 @@ namespace SIS.HTTP
             {
                 content= "<h1>Login Page</h1>";
             }
-            byte[] fileContent = Encoding.UTF8.GetBytes(content);
-            string headers = "HTTP/1.0 200 OK" + GlobalConstants.HttpNewLine +
-                             "Server: SoftUniServer/1.0" + GlobalConstants.HttpNewLine +
-                             "Content-Type: text/html" + GlobalConstants.HttpNewLine +
-                             "Content-Length: " + fileContent.Length + GlobalConstants.HttpNewLine + GlobalConstants.HttpNewLine;
+            byte[] stringContent = Encoding.UTF8.GetBytes(content);
+            var response = new HttpResponse(HttpResponseCodeType.OK , stringContent);
+            response.Headers.Add(new Header("Server", "SoftUniServer/1.0"));
+            response.Headers.Add(new Header("Content-Type", "text/html"));
 
-            byte[] headersBytes = Encoding.UTF8.GetBytes(headers);
-            await networkStream.WriteAsync(headersBytes, 0, headersBytes.Length);
-            await networkStream.WriteAsync(fileContent, 0, fileContent.Length);
+            byte[] responseBytes = Encoding.UTF8.GetBytes(response.ToString());
+            await networkStream.WriteAsync(responseBytes, 0, responseBytes.Length);
+            await networkStream.WriteAsync(response.Body, 0, response.Body.Length);
             Console.WriteLine(request);
             Console.WriteLine(new string('=',60));
         }
