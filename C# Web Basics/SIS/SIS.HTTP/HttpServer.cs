@@ -4,6 +4,7 @@ using SIS.HTTP.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
@@ -14,11 +15,14 @@ namespace SIS.HTTP
     public class HttpServer : IHttpServer
     {
         private readonly TcpListener tcpListener;
+        private readonly IList<Route> routeTable;
+
         //TODO: actions
-        public HttpServer(int port)
+
+        public HttpServer(int port, IList<Route> routeTable)
         {
             this.tcpListener = new TcpListener(IPAddress.Loopback, port);
-
+            this.routeTable = routeTable;
         }
 
         public async Task ResetAsync()
@@ -46,28 +50,30 @@ namespace SIS.HTTP
         private async Task ProcessClientAsync(TcpClient tcpClient)
         {
             using NetworkStream networkStream = tcpClient.GetStream();
-            
+
             try
             {
-                
+
                 byte[] requestBytes = new byte[1000000];
                 int byteRead = await networkStream.ReadAsync(requestBytes, 0, requestBytes.Length);
                 string requestAsString = Encoding.UTF8.GetString(requestBytes, 0, byteRead);
 
                 var request = new HttpRequest(requestAsString);
-                string content = "<h1>Random Page</h1>";
-                if (request.Path == "/")
+                var route = this.routeTable
+                    .FirstOrDefault(rt => rt.HttpMethod == request.Method && rt.Path == request.Path);
+                HttpResponse response;
+                if (route == null)
                 {
-                    content = "<h1>Home Page</h1>";
+                    response = new HttpResponse(HttpResponseCodeType.NotFound, new byte[0]);
                 }
-                else if (request.Path == "/users/login")
+                else
                 {
-                    content = "<h1>Login Page</h1>";
+                    response = route.Action(request); 
                 }
-                byte[] stringContent = Encoding.UTF8.GetBytes(content);
-                var response = new HttpResponse(HttpResponseCodeType.OK, stringContent);
+
+
                 response.Headers.Add(new Header("Server", "SoftUniServer/1.0"));
-                response.Headers.Add(new Header("Content-Type", "text/html"));
+
                 response.ResponseCookies.Add(new ResponseCookie("sid", Guid.NewGuid().ToString())
                 {
                     HttpOnly = true,
@@ -83,7 +89,7 @@ namespace SIS.HTTP
             catch (Exception ex)
             {
                 var errorResponse = new HttpResponse(HttpResponseCodeType.InternalServerError, Encoding.UTF8.GetBytes(ex.Message));
-                errorResponse.Headers.Add(new Header ( "Content-Type", "text/plain"));
+                errorResponse.Headers.Add(new Header("Content-Type", "text/plain"));
 
                 byte[] responseBytes = Encoding.UTF8.GetBytes(errorResponse.ToString());
                 await networkStream.WriteAsync(responseBytes, 0, responseBytes.Length);
