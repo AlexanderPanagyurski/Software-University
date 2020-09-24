@@ -33,6 +33,32 @@ namespace CarStore.Models
         [Range(typeof(decimal), AttributesConstraints.DecimalMinValue, AttributesConstraints.DecimalMaxValue)]
         public decimal? Price { get; set; }
 
+        public int Views { get; set; }
+
+        [Required]
+        public DateTime CreatedOn { get; set; }
+
+        public DateTime? EditedOn { get; set; }
+
+        public bool IsArchived { get; set; }
+
+        public DateTime? ArchivedOn { get; set; }
+
+
+        public bool IsReported { get; set; }
+
+        public DateTime? ReportedOn { get; set; }
+
+        public bool IsBanned { get; set; }
+
+        public DateTime? BannedOn { get; set; }
+
+        public bool IsPromoted { get; set; }
+
+        public DateTime? PromotedOn { get; set; }
+
+        public DateTime? PromotedUntil { get; set; }
+
         public double? FuelConsumption { get; set; }
 
         [Range(AttributesConstraints.MileageMinLength, AttributesConstraints.MileageMaxLength)]

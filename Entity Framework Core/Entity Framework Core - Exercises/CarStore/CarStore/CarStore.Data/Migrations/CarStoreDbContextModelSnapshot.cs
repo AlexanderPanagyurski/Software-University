@@ -24,6 +24,12 @@ namespace CarStore.Data.Migrations
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
 
+                    b.Property<DateTime?>("ArchivedOn")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("BannedOn")
+                        .HasColumnType("datetime2");
+
                     b.Property<int>("BodyType")
                         .HasColumnType("int");
 
@@ -33,10 +39,16 @@ namespace CarStore.Data.Migrations
                     b.Property<string>("CountryId")
                         .HasColumnType("nvarchar(450)");
 
+                    b.Property<DateTime>("CreatedOn")
+                        .HasColumnType("datetime2");
+
                     b.Property<string>("Description")
                         .HasColumnType("nvarchar(500)")
                         .HasMaxLength(500)
                         .IsUnicode(true);
+
+                    b.Property<DateTime?>("EditedOn")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("EngineId")
                         .HasColumnType("nvarchar(450)");
@@ -46,6 +58,18 @@ namespace CarStore.Data.Migrations
 
                     b.Property<int>("GearType")
                         .HasColumnType("int");
+
+                    b.Property<bool>("IsArchived")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsBanned")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsPromoted")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsReported")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Make")
                         .IsRequired()
@@ -66,7 +90,16 @@ namespace CarStore.Data.Migrations
                     b.Property<decimal?>("Price")
                         .HasColumnType("decimal(18,2)");
 
+                    b.Property<DateTime?>("PromotedOn")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("PromotedUntil")
+                        .HasColumnType("datetime2");
+
                     b.Property<DateTime?>("Registration")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("ReportedOn")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("StateId")
@@ -74,6 +107,9 @@ namespace CarStore.Data.Migrations
 
                     b.Property<string>("UserId")
                         .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("Views")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 

@@ -10,4 +10,10 @@
     <ProjectReference Include="..\CarStore.ServiceModels\CarStore.ServiceModels.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="EmailSender\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Implementations\" />
+  </ItemGroup>
+
 </Project>
