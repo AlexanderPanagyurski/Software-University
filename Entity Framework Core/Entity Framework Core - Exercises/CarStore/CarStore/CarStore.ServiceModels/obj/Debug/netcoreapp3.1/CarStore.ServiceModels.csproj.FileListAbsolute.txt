@@ -6,3 +6,4 @@ C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework
 C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.ServiceModels\obj\Debug\netcoreapp3.1\CarStore.ServiceModels.csproj.CoreCompileInputs.cache
 C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.ServiceModels\obj\Debug\netcoreapp3.1\CarStore.ServiceModels.dll
 C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.ServiceModels\obj\Debug\netcoreapp3.1\CarStore.ServiceModels.pdb
+C:\Users\home\Desktop\Software-University\Entity Framework Core\Entity Framework Core - Exercises\CarStore\CarStore\CarStore.ServiceModels\obj\Debug\netcoreapp3.1\CarStore.ServiceModels.csprojAssemblyReference.cache
