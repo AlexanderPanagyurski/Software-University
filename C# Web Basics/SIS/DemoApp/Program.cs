@@ -16,8 +16,25 @@ namespace DemoApp
             routeTable.Add(new Route(HttpMethodType.GET, "/", Index));
             routeTable.Add(new Route(HttpMethodType.GET, "/users/login", Login));
             routeTable.Add(new Route(HttpMethodType.POST, "/users/login", DoLogin));
+            routeTable.Add(new Route(HttpMethodType.GET, "/contacts", Contacts));
+            routeTable.Add(new Route(HttpMethodType.GET, "/favicon.ico", FavICon));
             var httpServer = new HttpServer(80);
             await httpServer.StartAsync();
+        }
+
+        private static HttpResponse FavICon(HttpRequest arg)
+        {
+            throw new NotImplementedException();
+        }
+
+        private static HttpResponse Contacts(HttpRequest httpRequest)
+        {
+            var content = "<h1>Contacts Page";
+            byte[] stringContent = Encoding.UTF8.GetBytes(content);
+
+            var response = new HttpResponse(HttpResponseCodeType.OK, stringContent);
+
+            return response;
         }
 
         public static HttpResponse Index(HttpRequest httpRequest)
