@@ -1,4 +1,4 @@
-DrawFort(8)
+DrawFort(10)
 
 function DrawFort(n){
 
