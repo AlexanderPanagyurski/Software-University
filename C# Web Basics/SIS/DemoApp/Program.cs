@@ -30,46 +30,23 @@ namespace DemoApp
 
         private static HttpResponse Contacts(HttpRequest httpRequest)
         {
-            var content = "<h1>Contacts Page";
-            byte[] stringContent = Encoding.UTF8.GetBytes(content);
-
-            var response = new HttpResponse(HttpResponseCodeType.OK, stringContent);
-            response.Headers.Add(new Header("Content-Type", "text/html"));
-
-            return response;
+            return new HtmlResponse("<h1>Contacts</h1>");
         }
 
         public static HttpResponse Index(HttpRequest httpRequest)
         {
-            var content = "<h1>Home Page</h1>";
-            byte[] stringContent = Encoding.UTF8.GetBytes(content);
+            return new HtmlResponse("<h1>Home Page</h1>");
 
-            var response = new HttpResponse(HttpResponseCodeType.OK, stringContent);
-            response.Headers.Add(new Header("Content-Type", "text/html"));
-
-            return response;
         }
 
         public static HttpResponse Login(HttpRequest httpRequest)
         {
-            var content = "<h1>Login Page</h1>";
-            byte[] stringContent = Encoding.UTF8.GetBytes(content);
+            return new HtmlResponse("<h1>Login Page</h1>");
 
-            var response = new HttpResponse(HttpResponseCodeType.OK, stringContent);
-            response.Headers.Add(new Header("Content-Type", "text/html"));
-
-            return response;
         }
 
         public static HttpResponse DoLogin(HttpRequest httpRequest)
-        {
-            var content = "<h1>Login Page</h1>";
-            byte[] stringContent = Encoding.UTF8.GetBytes(content);
-
-            var response = new HttpResponse(HttpResponseCodeType.OK, stringContent);
-            response.Headers.Add(new Header("Content-Type", "text/html"));
-
-            return response;
+        {            return new HtmlResponse("<h1>Contacts</h1>");
         }
     }
 }

@@ -15,14 +15,18 @@ namespace SIS.HTTP
         {
             this.Version = HttpVersionType.Http11;
             this.StatusCode = statusCode;
-            this.Headers = new List<Header>();
-            this.ResponseCookies = new List<ResponseCookie>();
             this.Body = body;
 
             if (body != null && body.Length > 0)
             {
                 this.Headers.Add(new Header("Content-Length", body.Length.ToString()));
             }
+        }
+
+        internal HttpResponse()
+        {
+            this.Headers = new List<Header>();
+            this.ResponseCookies = new List<ResponseCookie>();
         }
 
         public HttpVersionType Version { get; set; }
