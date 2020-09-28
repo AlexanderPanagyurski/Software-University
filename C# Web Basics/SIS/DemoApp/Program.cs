@@ -46,7 +46,7 @@ namespace DemoApp
         }
 
         public static HttpResponse DoLogin(HttpRequest httpRequest)
-        {            return new HtmlResponse("<h1>Contacts</h1>");
+        {            return new HtmlResponse("<h1>Login in....</h1>");
         }
     }
 }

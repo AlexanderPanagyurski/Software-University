@@ -16,6 +16,7 @@ namespace SIS.HTTP
     {
         private readonly TcpListener tcpListener;
         private readonly IList<Route> routeTable;
+        private readonly IDictionary<string, IDictionary<string, string>> sessions;
 
         //TODO: actions
 
@@ -23,6 +24,7 @@ namespace SIS.HTTP
         {
             this.tcpListener = new TcpListener(IPAddress.Loopback, port);
             this.routeTable = routeTable;
+            this.sessions = = new Dictionary<string, IDictionary<string, string>>(); 
         }
 
         public async Task ResetAsync()
@@ -59,6 +61,7 @@ namespace SIS.HTTP
                 string requestAsString = Encoding.UTF8.GetString(requestBytes, 0, byteRead);
 
                 var request = new HttpRequest(requestAsString);
+                Console.WriteLine($"{request.Method} {request.Path}");
                 var route = this.routeTable
                     .FirstOrDefault(rt => rt.HttpMethod == request.Method && rt.Path == request.Path);
                 HttpResponse response;
@@ -83,7 +86,7 @@ namespace SIS.HTTP
                 byte[] responseBytes = Encoding.UTF8.GetBytes(response.ToString());
                 await networkStream.WriteAsync(responseBytes, 0, responseBytes.Length);
                 await networkStream.WriteAsync(response.Body, 0, response.Body.Length);
-                Console.WriteLine(request);
+
                 Console.WriteLine(new string('=', 60));
             }
             catch (Exception ex)
