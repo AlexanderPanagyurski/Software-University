@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UNeLWg4ptXKxd6PsJEhzHgZ/8PYwO+B3cUHkaV0wTMC4haYjio0w7rl7agE9Hd4wa9KXRd4nqgiXmDhMG1Y57w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\home\\Desktop\\GitHub Repositories\\Software-University\\Entity Framework Core\\Entity Framework Core - Exercises\\Best Practices and Architecture\\Exercise\\PetStore\\PetStore.Common\\PetStore.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\home\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
