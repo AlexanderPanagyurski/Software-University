@@ -9,6 +9,7 @@ namespace PetStore.Common
         public const string PriceMinValue = "0.00";
         public const string PriceMaxValue = "79228162514264337593543950335";
         public const byte ProdudctNameMaxValue = 20;
+        public const byte ProductNameMinValue = 5;
         public const byte OrderTownNameMaxLength = byte.MaxValue;
         public const byte OrderAddressNameMaxLength = byte.MaxValue;
         public const byte OrderNotesMaxValue = byte.MaxValue;
