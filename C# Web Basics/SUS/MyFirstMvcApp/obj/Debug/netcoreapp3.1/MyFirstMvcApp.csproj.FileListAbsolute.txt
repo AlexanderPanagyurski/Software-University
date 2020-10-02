@@ -14,3 +14,4 @@ C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.dll
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.pdb
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\obj\Debug\netcoreapp3.1\MyFirstMvcApp.genruntimeconfig.cache
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\favicon.ico
