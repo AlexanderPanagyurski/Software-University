@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace SUS.HTTP
 {
     public interface IHttpServer
     {
-        void Start(int port);
+        Task StartAsync(int port);
         void AddRoute(string path, Func<HttpRequest, HttpResponse> action);
     }
 }
