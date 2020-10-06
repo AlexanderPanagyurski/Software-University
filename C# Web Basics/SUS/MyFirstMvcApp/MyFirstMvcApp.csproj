@@ -20,7 +20,7 @@
     <None Update="Views\Cards\Collection.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="Views\Home\Home.html">
+    <None Update="Views\Home\Index.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="Views\Shared\Error.html">

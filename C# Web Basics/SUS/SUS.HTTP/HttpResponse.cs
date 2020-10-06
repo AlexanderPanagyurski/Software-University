@@ -12,6 +12,7 @@ namespace SUS.HTTP
             this.Headers = new List<Header>();
             this.Cookies = new List<Cookie>();
         }
+
         public HttpResponse(string contentType, byte[] body, HttpStatusCode statusCode = HttpStatusCode.Ok)
         {
             if (body == null)

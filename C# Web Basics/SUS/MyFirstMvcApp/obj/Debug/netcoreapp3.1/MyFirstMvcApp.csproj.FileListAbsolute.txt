@@ -20,7 +20,6 @@ C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\SUS.MvcFramework.pdb
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Users\Login.html
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Cards\Add.html
-C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Home\Home.html
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Cards\All.html
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Cards\Collection.html
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Shared\Error.html
@@ -30,3 +29,4 @@ C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\css\custom.css
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\js\bootstrap.bundle.min.js
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\wwwroot\js\custom.js
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\MyFirstMvcApp\bin\Debug\netcoreapp3.1\Views\Home\Index.html

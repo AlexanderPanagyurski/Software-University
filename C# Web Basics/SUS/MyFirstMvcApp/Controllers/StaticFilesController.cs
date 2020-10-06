@@ -11,33 +11,27 @@ namespace MyFirstMvcApp.Controllers
     {
         public HttpResponse Favicon(HttpRequest request)
         {
-            var response = File("wwwroot/favicon.ico", "image/vnd.microsoft.icon");
-            return response;
+            return this.File("wwwroot/favicon.ico", "image/vnd.microsoft.icon");
         }
 
-        internal HttpResponse BootstrapJs(HttpRequest request)
+        internal HttpResponse BootstrapCss(HttpRequest request)
         {
-            var response = File("wwwroot/js/bootstrap.bundle.min.js", "text/javascript");
-            return response;
-        }
-
-        internal HttpResponse CustomJs(HttpRequest request)
-        {
-            var response = File("wwwroot/js/bootstrap.bundle.min.js", "text/javascript");
-            
-            return response;
+            return this.File("wwwroot/css/bootstrap.min.css", "text/css");
         }
 
         internal HttpResponse CustomCss(HttpRequest request)
         {
-            var response = File("wwwroot/css/custom.js", "text/css");
-            return response;
+            return this.File("wwwroot/css/custom.css", "text/css");
         }
 
-        internal HttpResponse BootstrapCss(HttpRequest arg)
+        internal HttpResponse CustomJs(HttpRequest request)
         {
-            var response = File("wwwroot/css/bootstrap.min.css","text/css");
-            return response;
+            return this.File("wwwroot/js/custom.js", "text/javascript");
+        }
+
+        internal HttpResponse BoostrapJs(HttpRequest request)
+        {
+            return this.File("wwwroot/js/bootstrap.bundle.min.js", "text/javascript");
         }
     }
 }

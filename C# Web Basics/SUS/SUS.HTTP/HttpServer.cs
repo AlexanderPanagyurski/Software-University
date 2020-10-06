@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -10,7 +11,7 @@ namespace SUS.HTTP
 {
     public class HttpServer : IHttpServer
     {
-        private List<Route> routeTable;
+        List<Route> routeTable;
 
         public HttpServer(List<Route> routeTable)
         {
@@ -19,15 +20,14 @@ namespace SUS.HTTP
 
         public async Task StartAsync(int port)
         {
-            TcpListener tcpListener = new TcpListener(IPAddress.Loopback, port);
+            TcpListener tcpListener =
+                new TcpListener(IPAddress.Loopback, port);
             tcpListener.Start();
-
             while (true)
             {
                 TcpClient tcpClient = await tcpListener.AcceptTcpClientAsync();
                 ProcessClientAsync(tcpClient);
             }
-
         }
 
         private async Task ProcessClientAsync(TcpClient tcpClient)
@@ -65,14 +65,16 @@ namespace SUS.HTTP
                     Console.WriteLine($"{request.Method} {request.Path} => {request.Headers.Count} headers");
 
                     HttpResponse response;
-                    var route = this.routeTable.FirstOrDefault(x => x.Path == request.Path);
-
+                    var route = this.routeTable.FirstOrDefault(
+                        x => string.Compare(x.Path, request.Path, true) == 0
+                            && x.Method == request.Method);
                     if (route != null)
                     {
                         response = route.Action(request);
                     }
                     else
                     {
+                        // Not Found 404
                         response = new HttpResponse("text/html", new byte[0], HttpStatusCode.NotFound);
                     }
 
