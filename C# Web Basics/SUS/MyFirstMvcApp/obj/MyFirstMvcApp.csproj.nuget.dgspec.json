@@ -155,7 +155,11 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\home\\Desktop\\GitHub Repositories\\Software-University\\C# Web Basics\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
+                "projectPath": "C:\\Users\\home\\Desktop\\GitHub Repositories\\Software-University\\C# Web Basics\\SUS\\SUS.HTTP\\SUS.HTTP.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

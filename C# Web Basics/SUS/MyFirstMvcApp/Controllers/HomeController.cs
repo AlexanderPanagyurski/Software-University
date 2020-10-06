@@ -9,20 +9,13 @@ namespace MyFirstMvcApp.Controllers
 {
     public class HomeController : Controller
     {
-        public static HttpResponse Index(HttpRequest request)
+        public  HttpResponse Home(HttpRequest request)
         {
-            var responseHtml = "<h1>Welcome!</h1>" +
-                request.Headers.FirstOrDefault(x => x.Name == "User-Agent")?.Value;
-            var responseBodyBytes = Encoding.UTF8.GetBytes(responseHtml);
-            var response = new HttpResponse("text/html", responseBodyBytes);
-            return response;
+            return this.View();
         }
-        public static HttpResponse About(HttpRequest request)
+        public  HttpResponse About(HttpRequest request)
         {
-            var responseHtml = "<h1>About...</h1>";
-            var responseBodyBytes = Encoding.UTF8.GetBytes(responseHtml);
-            var response = new HttpResponse("text/html", responseBodyBytes);
-            return response;
+            throw new NotImplementedException();
         }
 
     }
