@@ -3,6 +3,7 @@ using SUS.Mvcframework;
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -15,6 +16,7 @@ namespace SUS.MvcFramework
             // TODO: {controller}/{action}/{id}
             List<Route> routeTable = new List<Route>();
             AutoRegisterStaticFile(routeTable);
+            AutoRegisterRoutes(routeTable, application);
 
             application.ConfigureServices();
             application.Configure(routeTable);
@@ -25,6 +27,49 @@ namespace SUS.MvcFramework
 
             // Process.Start(@"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe", "http://localhost/");
             await server.StartAsync(port);
+        }
+
+        private static void AutoRegisterRoutes(List<Route> routeTable, IMvcApplication application)
+        {
+            //routeTable.Add(new Route("/users/register", HttpMethod.Get, new UsersController().Register));
+
+            var controllerTypes = application.GetType().Assembly.GetTypes().Where(x => x.IsClass && !x.IsAbstract && x.IsSubclassOf(typeof(Controller)));
+
+            foreach (var controllerType in controllerTypes)
+            {
+                Console.WriteLine(controllerType.Name);
+                var methods = controllerType.GetMethods().Where(x => x.IsPublic && !x.IsStatic && x.DeclaringType == controllerType && !x.IsAbstract && !x.IsConstructor && !x.IsSpecialName);
+                foreach (var method in methods)
+                {
+                    var url = "/" + controllerType.Name.Replace("Controller", string.Empty)
+                        + "/" + method.Name;
+
+                    var attribute = method
+                         .GetCustomAttributes(false)
+                         .Where(x => x.GetType().IsSubclassOf(typeof(BaseHttpAttribute)))
+                         .FirstOrDefault() as BaseHttpAttribute;
+
+                    var httpMethod = HttpMethod.Get;
+
+                    if (attribute != null)
+                    {
+                        httpMethod = attribute.Method;
+                    }
+
+                    if (!string.IsNullOrEmpty(attribute?.Url))
+                    {
+                        url = attribute.Url;
+                    }
+
+                    routeTable.Add(new Route(url, httpMethod, (request) =>
+                     {
+                         var instance = Activator.CreateInstance(controllerType);
+                         var response = method.Invoke(instance, new[] { request }) as HttpResponse;
+
+                         return response;
+                     }));
+                }
+            }
         }
 
         private static void AutoRegisterStaticFile(List<Route> routeTable)
