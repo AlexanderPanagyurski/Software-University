@@ -10,3 +10,4 @@ C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.pdb
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CopyComplete
 C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\SUS.MvcFramework\bin\Debug\netstandard2.0\Controller.cs
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\SUS\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CoreCompileInputs.cache
