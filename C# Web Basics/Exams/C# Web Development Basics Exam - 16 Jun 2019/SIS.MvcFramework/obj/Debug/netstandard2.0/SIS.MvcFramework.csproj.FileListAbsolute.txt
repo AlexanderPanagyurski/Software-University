@@ -1,0 +1,12 @@
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
