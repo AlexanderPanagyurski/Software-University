@@ -10,25 +10,18 @@ let n = 5;
 findAndPrintCommonElements(mat, n);
 
 function findAndPrintCommonElements(mat, n) {
-    // sort rows individually  
     sortRows(mat, n);
 
-    // current column index of each row is stored  
-    // from where the element is being searched in  
-    // that row  
-    let[] curr_index = new int[n];
+    let curr_index = [n];
 
     let f = 0;
 
     for (; curr_index[0] < n; curr_index[0]++) {
-        // value present at the current column index  
-        // of 1st row  
+ 
         let value = mat[0][curr_index[0]];
 
         let present = true;
 
-        // 'value' is being searched in all the  
-        // subsequent rows  
         for (let i = 1; i < n; i++) { 
             while (curr_index[i] < n &&
                 mat[i][curr_index[i]] <= value) {
