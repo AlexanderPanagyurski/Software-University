@@ -55,7 +55,8 @@ namespace BattleCards.Controllers
                 Attack = x.Attack,
                 Health = x.Health,
                 ImageUrl = x.ImageUrl,
-                Type = x.Keyword,
+                Type = x.Keyword.Replace('-',' '),
+                UniverseLogoUrl=@$"/img/{x.UniverseName}.png",
                 UniverseName = x.UniverseName.Replace('-', ' ')
             }).ToList();
 

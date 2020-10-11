@@ -56,6 +56,15 @@
     <None Update="wwwroot\img\dog.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="wwwroot\img\Dota-2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\img\League-Of-Legends.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\img\Warcraft.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="wwwroot\js\bootstrap.bundle.min.js">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

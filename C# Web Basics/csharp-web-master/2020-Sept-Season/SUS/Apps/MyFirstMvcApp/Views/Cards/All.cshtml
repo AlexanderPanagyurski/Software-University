@@ -12,10 +12,10 @@
                 </h5>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item text-center">@card.Type</li>
-                    <li class="list-group-item text-center">@card.UniverseName</li>
-                    <li class="list-group-item">
-                        <span class="attack-stat">@card.Attack</span><span class="health-stat">@card.Health</span>
-                    </li>
+                    <li class="list-group-item text-center"><img src=@card.UniverseLogoUrl width="15%" height="15%"> @card.UniverseName</li>
+                <li class="list-group-item">
+                    <span class="attack-stat">@card.Attack</span><span class="health-stat">@card.Health</span>
+                </li>
                 </ul>
                 <a href="/Cards/AddToCollection?cardId=X" class="btn btn-block btn-primary">Add to collection</a>
             </div>
