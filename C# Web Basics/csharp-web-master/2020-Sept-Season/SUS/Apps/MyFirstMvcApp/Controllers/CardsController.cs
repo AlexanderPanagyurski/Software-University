@@ -37,6 +37,7 @@ namespace BattleCards.Controllers
                 Name = this.Request.FormData["name"],
                 ImageUrl = this.Request.FormData["image"],
                 Keyword = this.Request.FormData["keyword"],
+                UniverseName = this.Request.FormData["universe"]
             });
             dbContext.SaveChanges();
 
@@ -49,12 +50,13 @@ namespace BattleCards.Controllers
             var db = new ApplicationDbContext();
             var cardsViewModel = db.Cards.Select(x => new CardViewModel
             {
-                Name = x.Name,
+                Name = x.Name.Replace('-', ' '),
                 Description = x.Description,
                 Attack = x.Attack,
                 Health = x.Health,
                 ImageUrl = x.ImageUrl,
                 Type = x.Keyword,
+                UniverseName = x.UniverseName.Replace('-', ' ')
             }).ToList();
 
             return this.View(new AllCardsViewModel { Cards = cardsViewModel });

@@ -19,5 +19,9 @@ namespace BattleCards.ViewModels
         public int Attack { get; set; }
 
         public int Health { get; set; }
+
+        public string UniverseLogoUrl { get; set; }
+
+        public string UniverseName { get; set; }
     }
 }

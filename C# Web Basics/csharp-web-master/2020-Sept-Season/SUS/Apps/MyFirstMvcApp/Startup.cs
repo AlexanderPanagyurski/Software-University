@@ -16,7 +16,8 @@ namespace BattleCards
 
         public void Configure(List<Route> routeTable)
         {
-            new ApplicationDbContext().Database.EnsureCreated();
+            //new ApplicationDbContext().Database.EnsureDeleted();
+            new ApplicationDbContext().Database.Migrate();
         }
     }
 }

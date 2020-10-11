@@ -32,6 +32,11 @@ namespace BattleCards.Data
         [MaxLength(byte.MaxValue)]
         public string Description { get; set; }
 
+        public string UniverseLogoUrl { get; set; }
+
+        [MaxLength(40)]
+        public string UniverseName { get; set; }
+
         public virtual ICollection<UserCard> Users { get; set; }
     }
 }
