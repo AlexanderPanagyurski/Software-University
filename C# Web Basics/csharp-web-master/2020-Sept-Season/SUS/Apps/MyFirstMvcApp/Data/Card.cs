@@ -15,7 +15,7 @@ namespace BattleCards.Data
         public int Id { get; set; }
 
         [Required]
-        [MaxLength(15)]
+        [MaxLength(30)]
         public string Name { get; set; }
 
         [Required]
