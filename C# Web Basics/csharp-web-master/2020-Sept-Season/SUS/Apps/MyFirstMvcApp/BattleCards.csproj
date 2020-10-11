@@ -62,6 +62,9 @@
     <None Update="wwwroot\img\League-Of-Legends.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="wwwroot\img\Starcraft.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="wwwroot\img\Warcraft.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
