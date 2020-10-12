@@ -41,7 +41,7 @@ namespace BattleCards.Controllers
             });
             dbContext.SaveChanges();
 
-            return this.Redirect("/");
+            return this.Redirect("/Cards/All");
         }
 
         // /cards/all
