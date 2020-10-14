@@ -14,11 +14,11 @@ namespace SUS.MvcFramework.ViewEngine
     // RAZOR VIEW ENGINE
     public class SusViewEngine : IViewEngine
     {
-        public string GetHtml(string templateCode, object viewModel)
+        public string GetHtml(string templateCode, object viewModel, string user)
         {
             string csharpCode = GenerateCSharpFromTemplate(templateCode, viewModel);
             IView executableObject = GenerateExecutableCоde(csharpCode, viewModel);
-            string html = executableObject.ExecuteTemplate(viewModel); // M
+            string html = executableObject.ExecuteTemplate(viewModel, user); // M
             return html;
         }
 
@@ -32,7 +32,7 @@ namespace SUS.MvcFramework.ViewEngine
                     var modelName = viewModel.GetType().FullName;
                     var genericArguments = viewModel.GetType().GenericTypeArguments;
                     typeOfModel = modelName.Substring(0, modelName.IndexOf('`'))
-                        + "<" + string.Join(",", genericArguments.Select(x => x.FullName)) +">";
+                        + "<" + string.Join(",", genericArguments.Select(x => x.FullName)) + ">";
                 }
                 else
                 {
@@ -46,19 +46,16 @@ using System.Text;
 using System.Linq;
 using System.Collections.Generic;
 using SUS.MvcFramework.ViewEngine;
-
 namespace ViewNamespace
 {
     public class ViewClass : IView
     {
-        public string ExecuteTemplate(object viewModel)
+        public string ExecuteTemplate(object viewModel, string user)
         {
+            var User = user;
             var Model = viewModel as " + typeOfModel + @";
-            object User = null;
             var html = new StringBuilder();
-
             " + GetMethodBody(templateCode) + @"
-
             return html.ToString();
         }
     }
@@ -90,7 +87,7 @@ namespace ViewNamespace
                 else
                 {
                     csharpCode.Append($"html.AppendLine(@\"");
-   
+
                     while (line.Contains("@"))
                     {
                         var atSignLocation = line.IndexOf("@");
@@ -117,6 +114,16 @@ namespace ViewNamespace
                 .AddReferences(MetadataReference.CreateFromFile(typeof(IView).Assembly.Location));
             if (viewModel != null)
             {
+                if (viewModel.GetType().IsGenericType)
+                {
+                    var genericArguments = viewModel.GetType().GenericTypeArguments;
+                    foreach (var genericArgument in genericArguments)
+                    {
+                        compileResult = compileResult
+                            .AddReferences(MetadataReference.CreateFromFile(genericArgument.Assembly.Location));
+                    }
+                }
+
                 compileResult = compileResult
                     .AddReferences(MetadataReference.CreateFromFile(viewModel.GetType().Assembly.Location));
             }
@@ -131,7 +138,7 @@ namespace ViewNamespace
             }
 
             compileResult = compileResult.AddSyntaxTrees(SyntaxFactory.ParseSyntaxTree(csharpCode));
-             
+
             using (MemoryStream memoryStream = new MemoryStream())
             {
                 EmitResult result = compileResult.Emit(memoryStream);
