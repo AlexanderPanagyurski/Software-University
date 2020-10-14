@@ -60,7 +60,7 @@ namespace BattleCards.Controllers
                 UniverseName = x.UniverseName.Replace('-', ' ')
             }).ToList();
 
-            return this.View(new AllCardsViewModel { Cards = cardsViewModel });
+            return this.View(cardsViewModel);
         }
 
         // /cards/collection
