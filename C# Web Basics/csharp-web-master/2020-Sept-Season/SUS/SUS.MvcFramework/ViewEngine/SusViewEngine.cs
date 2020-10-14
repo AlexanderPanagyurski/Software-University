@@ -54,6 +54,7 @@ namespace ViewNamespace
         public string ExecuteTemplate(object viewModel)
         {
             var Model = viewModel as " + typeOfModel + @";
+            object User = null;
             var html = new StringBuilder();
 
             " + GetMethodBody(templateCode) + @"
