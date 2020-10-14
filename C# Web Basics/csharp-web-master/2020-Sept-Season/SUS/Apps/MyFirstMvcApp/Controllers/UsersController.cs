@@ -6,19 +6,31 @@ namespace BattleCards.Controllers
 {
     public class UsersController : Controller
     {
-        // GET /users/login
-        public HttpResponse Login()
-        {
-            return this.View();
-        }
-
         // GET /users/register
         public HttpResponse Register()
         {
             return this.View();
         }
 
-        [HttpPost]
+
+        //POST /users/register
+        [HttpPost("/Users/Register")]
+        public HttpResponse DoRegister()
+        {
+            //TODO: read data
+            //TODO: check if data is valid
+            //TODO: register user
+            return this.View();
+        }
+
+        // GET /users/login
+        public HttpResponse Login()
+        {
+            return this.View();
+        }
+
+        //POST /users/login
+        [HttpPost("/Users/Login")]
         public HttpResponse DoLogin()
         {
             // TODO: read data
@@ -26,6 +38,7 @@ namespace BattleCards.Controllers
             // TODO: log user
             return this.Redirect("/");
         }
+
         public HttpResponse Logout()
         {
             if (!this.IsUserSignedIn())

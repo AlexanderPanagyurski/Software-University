@@ -1,4 +1,5 @@
 ﻿using BattleCards.Data;
+using SUS.MvcFramework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,70 +19,54 @@ namespace BattleCards.Services
 
         public void ChangePassword(string username, string newPassword)
         {
-            var user = this.db.Users.FirstOrDefault(x => x.Username == username);
-            if (user == null)
-            {
-                return;
-            }
-
-            user.Password = this.Hash(newPassword);
-            this.db.SaveChanges();
-        }
-
-        public int CountUsers()
-        {
-            return this.db.Users.Count();
+            throw new NotImplementedException();
         }
 
         public void CreateUser(string username, string email, string password)
         {
             var user = new User
             {
-                Email = email,
                 Username = username,
-                Password = this.Hash(password),
-                //Role = IdentityRole.User,
+                Email = email,
+                Password = ComputeHash(password),
+                IdentityRole = IdentityRole.User
             };
 
             this.db.Users.Add(user);
             this.db.SaveChanges();
         }
 
-        public string GetUserId(string username, string password)
+        public bool IsEmailAvailable(string email)
         {
-            var passwordHash = this.Hash(password);
-            return this.db.Users
-                .Where(x => x.Username == username && x.Password == passwordHash)
-                .Select(x => x.Id)
-                .FirstOrDefault();
+            return !this.db.Users.Any(x => x.Email == email);
         }
 
-        public bool IsEmailUsed(string email)
+        public bool IsUsernameAvailable(string username)
         {
-            return this.db.Users.Any(x => x.Email == email);
+            return !this.db.Users.Any(x => x.Username == username);
         }
 
-        public bool IsUsernameUsed(string username)
+        public bool IsUserValid(string username, string password)
         {
-            return this.db.Users.Any(x => x.Username == username);
+            var user = this.db.Users.FirstOrDefault(x => x.Username == username);
+            return user.Password == ComputeHash(password);
         }
 
-        private string Hash(string input)
+        private string ComputeHash(string input)
         {
-            if (input == null)
+
+            var bytes = Encoding.UTF8.GetBytes(input);
+            using (var hash = SHA512.Create())
             {
-                return null;
-            }
+                var hashedInputBytes = hash.ComputeHash(bytes);
 
-            var crypt = new SHA256Managed();
-            var hash = new StringBuilder();
-            byte[] crypto = crypt.ComputeHash(Encoding.UTF8.GetBytes(input));
-            foreach (byte theByte in crypto)
-            {
-                hash.Append(theByte.ToString("x2"));
+                // Convert to text
+                // StringBuilder Capacity is 128, because 512 bits / 8 bits in byte * 2 symbols for byte 
+                var hashedInputStringBuilder = new StringBuilder(128);
+                foreach (var b in hashedInputBytes)
+                    hashedInputStringBuilder.Append(b.ToString("X2"));
+                return hashedInputStringBuilder.ToString();
             }
-
-            return hash.ToString();
         }
     }
 }
