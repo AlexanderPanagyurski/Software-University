@@ -5,6 +5,7 @@ using SUS.HTTP;
 using SUS.MvcFramework;
 using System;
 using System.Collections.Generic;
+using BattleCards.Services;
 
 namespace BattleCards
 {
@@ -18,6 +19,12 @@ namespace BattleCards
         {
             //new ApplicationDbContext().Database.EnsureDeleted();
             new ApplicationDbContext().Database.Migrate();
+        }
+
+        public void ConfigureServices(IServiceCollection serviceCollection)
+        {
+            serviceCollection.Add<IUsersService, UsersService>();
+           // serviceCollection.Add<ICardsService, CardsService>();
         }
     }
 }
