@@ -14,9 +14,9 @@ namespace BattleCards.Controllers
 {
     public class CardsController : Controller
     {
-        private readonly CardsService cardsService;
+        private readonly ICardsService cardsService;
 
-        public CardsController(CardsService cardsService)
+        public CardsController(ICardsService cardsService)
         {
             this.cardsService = cardsService;
         }

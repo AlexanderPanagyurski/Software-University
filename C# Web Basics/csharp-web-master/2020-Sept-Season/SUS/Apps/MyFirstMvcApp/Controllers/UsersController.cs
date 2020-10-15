@@ -10,9 +10,9 @@ namespace BattleCards.Controllers
 {
     public class UsersController : Controller
     {
-        private readonly UsersService usersService;
+        private readonly IUsersService usersService;
 
-        public UsersController(UsersService usersService)
+        public UsersController(IUsersService usersService)
         {
             this.usersService = usersService;
         }
