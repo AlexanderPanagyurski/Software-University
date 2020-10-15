@@ -19,8 +19,7 @@ namespace BattleCards.Controllers
         // GET /home/about
         public HttpResponse About()
         {
-            this.SignIn("Alex");
-            return this.View();
+            return this.Error("This page doesn't exist.");
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using BattleCards.Services;
+using BattleCards.ViewModels;
 using SUS.HTTP;
 using SUS.MvcFramework;
 using System;
@@ -31,6 +32,10 @@ namespace BattleCards.Controllers
         [HttpPost("/Users/Register")]
         public HttpResponse DoRegister()
         {
+            if (IsUserSignedIn())
+            {
+                return this.Redirect("/");
+            }
             var username = this.Request.FormData["username"];
             var email = this.Request.FormData["email"];
             var password = this.Request.FormData["password"];
@@ -85,6 +90,10 @@ namespace BattleCards.Controllers
         [HttpPost("/Users/Login")]
         public HttpResponse DoLogin()
         {
+            if (IsUserSignedIn())
+            {
+                return this.Redirect("/");
+            }
             var username = this.Request.FormData["username"];
             var password = this.Request.FormData["password"];
             var userId = this.usersService.GetUserId(username, password);
