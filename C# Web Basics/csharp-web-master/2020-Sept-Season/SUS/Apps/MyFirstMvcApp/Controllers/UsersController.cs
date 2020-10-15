@@ -19,6 +19,10 @@ namespace BattleCards.Controllers
         // GET /users/register
         public HttpResponse Register()
         {
+            if (IsUserSignedIn())
+            {
+                return this.Redirect("/");
+            }
             return this.View();
         }
 
@@ -34,7 +38,7 @@ namespace BattleCards.Controllers
 
             if (username == null || username.Length < 5 || username.Length > 20)
             {
-                this.Error("Invalid username. Username should be between 5 and 20 characters.");
+                return this.Error("Invalid username. Username should be between 5 and 20 characters.");
             }
 
             if (!Regex.IsMatch(username, @"^[\w.]+[0-9]*$"))
@@ -47,7 +51,7 @@ namespace BattleCards.Controllers
             }
             if (password == null || password.Length < 6 || password.Length > 20)
             {
-                return this.Error("Invalid password. Username should be between 6 and 20 characters.");
+                return this.Error("Invalid username. Username should be between 6 and 20 characters.");
             }
 
             if (password != confirmPassword)
@@ -70,6 +74,10 @@ namespace BattleCards.Controllers
         // GET /users/login
         public HttpResponse Login()
         {
+            if (IsUserSignedIn())
+            {
+                return this.Redirect("/");
+            }
             return this.View();
         }
 

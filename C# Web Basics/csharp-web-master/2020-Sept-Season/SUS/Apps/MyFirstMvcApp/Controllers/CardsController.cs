@@ -16,6 +16,10 @@ namespace BattleCards.Controllers
         // GET /cards/add
         public HttpResponse Add()
         {
+            if (!IsUserSignedIn())
+            {
+                return this.Redirect("/Users/Login");
+            }
             return this.View();
         }
 
@@ -66,6 +70,10 @@ namespace BattleCards.Controllers
         // /cards/collection
         public HttpResponse Collection()
         {
+            if (!IsUserSignedIn())
+            {
+                return this.Redirect("/Users/Login");
+            }
             return this.View();
         }
     }
