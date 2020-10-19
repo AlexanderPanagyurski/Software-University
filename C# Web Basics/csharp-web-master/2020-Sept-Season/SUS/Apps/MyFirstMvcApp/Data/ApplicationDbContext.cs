@@ -20,7 +20,7 @@ namespace BattleCards.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=DESKTOP-Q9P5HVT\SQLEXPRESS;Database=BattleCards;Integrated Security=true;");
+                optionsBuilder.UseSqlServer(@"Server=DESKTOP-D12RT2K\SQLEXPRESS;Database=BattleCards;Integrated Security=true;");
             }
         }
 

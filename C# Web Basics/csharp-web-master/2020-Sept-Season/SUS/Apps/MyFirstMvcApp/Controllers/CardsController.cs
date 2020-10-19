@@ -42,9 +42,9 @@ namespace BattleCards.Controllers
             string keyword = this.Request.FormData["keyword"];
             string universeName = this.Request.FormData["universe"];
 
-            if (name.Length < 3 || name.Length > 15)
+            if (name.Length < 3 || name.Length > 25)
             {
-                return this.Error("Name length should be between 3 and 15 characters long.");
+                return this.Error("Name length should be between 3 and 25 characters long.");
             }
             if (!this.cardsService.IsNameAvailable(name))
             {
