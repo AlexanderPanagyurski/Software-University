@@ -16,5 +16,7 @@ namespace Suls.Data
 
         [Range(50, 300)]
         public int Points { get; set; }
+
+        public virtual ICollection<Submission> Submissions { get; set; } = new HashSet<Submission>();
     }
 }

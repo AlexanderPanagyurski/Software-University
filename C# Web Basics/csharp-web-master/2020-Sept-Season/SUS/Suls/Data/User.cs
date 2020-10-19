@@ -20,5 +20,6 @@ namespace Suls.Data
         [Required]
         public string Password { get; set; }
 
+        public virtual ICollection<Submission> Submissions { get; set; } = new HashSet<Submission>();
     }
 }
