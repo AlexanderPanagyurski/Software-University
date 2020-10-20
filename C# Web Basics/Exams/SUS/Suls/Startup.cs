@@ -13,13 +13,13 @@ namespace Suls
         {
             //new ApplicationDbContext().Database.EnsureDeleted();
             new ApplicationDbContext().Database.EnsureCreated();
-           
+
         }
 
         public void ConfigureServices(IServiceCollection serviceCollection)
         {
             serviceCollection.Add<IUsersService, UsersService>();
-            //serviceCollection.Add<IProblemsService, ProblemsService>();
+            serviceCollection.Add<IProblemsService, ProblemsService>();
             //serviceCollection.Add<ISubmissionsService, SubmissionsService>();
         }
     }

@@ -8,7 +8,7 @@ namespace Suls.Data
     public class Problem
     {
         [Key]
-        public string Id { get; set; } = new Guid().ToString();
+        public string Id { get; set; } = Guid.NewGuid().ToString();
 
         [Required]
         [MaxLength(20)]

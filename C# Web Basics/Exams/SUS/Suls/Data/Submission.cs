@@ -9,7 +9,7 @@ namespace Suls.Data
     public class Submission
     {
         [Key]
-        public string Id { get; set; } = new Guid().ToString();
+        public string Id { get; set; } = Guid.NewGuid().ToString();
 
         [Required,MaxLength(800)]
         public string Code { get; set; }
