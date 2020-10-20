@@ -1,8 +1,0 @@
-C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\Apps\SULS\SULS.Models\bin\Debug\netstandard2.0\SULS.Models.deps.json
-C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\Apps\SULS\SULS.Models\bin\Debug\netstandard2.0\SULS.Models.dll
-C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\Apps\SULS\SULS.Models\obj\Debug\netstandard2.0\SULS.Models.AssemblyInfoInputs.cache
-C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\Apps\SULS\SULS.Models\obj\Debug\netstandard2.0\SULS.Models.AssemblyInfo.cs
-C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\Apps\SULS\SULS.Models\bin\Debug\netstandard2.0\SULS.Models.pdb
-C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\Apps\SULS\SULS.Models\obj\Debug\netstandard2.0\SULS.Models.csproj.CoreCompileInputs.cache
-C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\Apps\SULS\SULS.Models\obj\Debug\netstandard2.0\SULS.Models.dll
-C:\Users\home\Desktop\GitHub Repositories\Software-University\C# Web Basics\Exams\C# Web Development Basics Exam - 16 Jun 2019\Apps\SULS\SULS.Models\obj\Debug\netstandard2.0\SULS.Models.pdb
