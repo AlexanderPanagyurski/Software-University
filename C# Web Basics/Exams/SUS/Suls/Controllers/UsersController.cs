@@ -19,12 +19,20 @@ namespace Suls.Controllers
 
         public HttpResponse Login()
         {
+            if (this.IsUserSignedIn())
+            {
+                return this.View("/");
+            }
             return this.View();
         }
 
         [HttpPost]
         public HttpResponse Login(string username, string password)
         {
+            if (this.IsUserSignedIn())
+            {
+                return this.View("/");
+            }
             var userdId = this.usersService.GetUserId(username, password);
             if (userdId == null)
             {
@@ -36,12 +44,20 @@ namespace Suls.Controllers
 
         public HttpResponse Register()
         {
+            if (this.IsUserSignedIn())
+            {
+                return this.View("/");
+            }
             return this.View();
         }
 
         [HttpPost]
         public HttpResponse Register(string username, string email, string password, string confirmPassword)
         {
+            if (this.IsUserSignedIn())
+            {
+                return this.View("/");
+            }
             if (string.IsNullOrEmpty(username) || username.Length < 5 || username.Length > 20)
             {
                 return this.Error("Invalid username. Username must be between 5 and 20 symbols.");
@@ -64,6 +80,10 @@ namespace Suls.Controllers
 
         public HttpResponse Logout()
         {
+            if (this.IsUserSignedIn())
+            {
+                return this.Error("Only logged-in users can log-out.");
+            }
             this.SignOut();
             return this.Redirect("/");
         }

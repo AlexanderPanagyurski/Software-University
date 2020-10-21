@@ -22,6 +22,10 @@ namespace Suls.Controllers
         {
             if (!this.IsUserSignedIn())
             {
+                return this.View("Users/Login");
+            }
+            if (!this.IsUserSignedIn())
+            {
                 return this.Redirect("/Users/Login");
             }
 
@@ -33,9 +37,14 @@ namespace Suls.Controllers
             return this.View(viewModel);
         }
 
+
         [HttpPost]
         public HttpResponse Create(string problemId, string code)
         {
+            if (!this.IsUserSignedIn())
+            {
+                return this.View("Users/Login");
+            }
             if (!this.IsUserSignedIn())
             {
                 return this.Redirect("/Users/Login");
@@ -53,6 +62,10 @@ namespace Suls.Controllers
 
         public HttpResponse Delete(string id)
         {
+            if (!this.IsUserSignedIn())
+            {
+                return this.View("Users/Login");
+            }
             if (!this.IsUserSignedIn())
             {
                 return this.Redirect("/Users/Login");

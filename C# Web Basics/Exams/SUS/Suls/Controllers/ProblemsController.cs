@@ -1,4 +1,5 @@
 ﻿using Suls.Services;
+using Suls.ViewModels;
 using SUS.HTTP;
 using SUS.MvcFramework;
 using System;
@@ -17,12 +18,20 @@ namespace Suls.Controllers
         }
         public HttpResponse Create()
         {
+            if (!this.IsUserSignedIn())
+            {
+                return this.View("Users/Login");
+            }
             return this.View();
         }
 
         [HttpPost]
         public HttpResponse Create(string name, int points)
         {
+            if (!this.IsUserSignedIn())
+            {
+                return this.View("Users/Login");
+            }
             if (string.IsNullOrEmpty(name) || name.Length < 5 || name.Length > 20)
             {
                 return this.Error("Invalid Problem's name. Name must be between 5 and 20 characters.");
@@ -35,9 +44,14 @@ namespace Suls.Controllers
             return this.Redirect("/");
         }
 
-        public HttpResponse Details()
+        public HttpResponse Details(string id)
         {
-            return this.View();
+            if (!this.IsUserSignedIn())
+            {
+                return this.View("Users/Login");
+            }
+            var viewModel = this.problemsService.GetById(id);
+            return this.View(viewModel);
         }
     }
 }

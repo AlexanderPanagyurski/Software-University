@@ -2,6 +2,7 @@
 using Suls.ViewModels;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 
@@ -42,6 +43,26 @@ namespace Suls.Services
         {
             var problem = this.db.Problems.FirstOrDefault(x => x.Id == id);
             return problem?.Name;
+        }
+
+        public ProblemViewModel GetById(string id)
+        {
+            return this.db.Problems
+                .Where(x => x.Id == id)
+                .Select(x => new ProblemViewModel
+                {
+                    Name = x.Name,
+                    Submissions = x.Submissions.Select(y => new SubmissionViewModel
+                    {
+                        CreatedOn = y.CreatedOn.ToString("dd/mm/yyyy", CultureInfo.InvariantCulture),
+                        AchievedResult = y.AchivedResult,
+                        Username=y.User.Username,
+                        SubmissionId=y.Id,
+                        MaxPoints = y.Problem.Points
+                    })
+                    .ToArray()
+                })
+                .FirstOrDefault();
         }
     }
 }

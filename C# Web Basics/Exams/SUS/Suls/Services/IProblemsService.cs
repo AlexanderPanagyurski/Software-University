@@ -12,5 +12,7 @@ namespace Suls.Services
         IEnumerable<IndexLoggedInViewModel> GetAll();
 
         string GetNameById(string id);
+
+        public ProblemViewModel GetById(string id);
     }
 }
