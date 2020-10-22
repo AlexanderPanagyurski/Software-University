@@ -16,6 +16,17 @@ namespace SharedTrip.Services
         {
             this.db = db;
         }
+
+        public void AddUser(string userId, string tripId)
+        {
+            this.db.UserTrips.Add(new UserTrip
+            {
+                UserId=userId,
+                TripId=tripId
+            });
+            this.db.SaveChanges();
+        }
+
         public void Create(string startPoint, string endPoint, string departureTime, string imagePath, int seats, string description)
         {
             var trip = new Trip
@@ -43,6 +54,26 @@ namespace SharedTrip.Services
                 Seats = x.Seats,
                 Id = x.Id
             }).ToArray();
+        }
+
+        public TripDetailsViewModel GetTripDetails(string tripId)
+        {
+            var trip = this.db
+                .Trips
+                .Where(x => x.Id == tripId)
+                .Select(x => new TripDetailsViewModel
+                {
+                    ImagePath=x.ImagePath,
+                    StartPoint=x.StartPoint,
+                    EndPoint=x.EndPoint,
+                    DepartureTime= x.DepartureTime.ToString("g"),
+                    Seats=x.Seats,
+                    Description=x.Description,
+                    Id=x.Id
+                })
+                .FirstOrDefault();
+
+            return trip;
         }
     }
 }

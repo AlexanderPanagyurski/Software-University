@@ -15,6 +15,7 @@ namespace SharedTrip.Services
         }
         public string CreateUser(string username, string email, string password)
         {
+            
             var user = new User
             {
                 Username = username,

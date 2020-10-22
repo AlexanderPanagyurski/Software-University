@@ -3,6 +3,7 @@ using SUS.HTTP;
 using SUS.MvcFramework;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Text;
 
 namespace SharedTrip.Controllers
@@ -19,12 +20,17 @@ namespace SharedTrip.Controllers
 
         public HttpResponse Add()
         {
+            if (!IsUserSignedIn())
+            {
+                return this.Redirect("/Users/Login");
+            }
             return this.View();
         }
 
         [HttpPost]
         public HttpResponse Add(string startPoint, string endPoint, string departureTime, string imagePath, int seats,string description)
         {
+
             if (string.IsNullOrEmpty(startPoint))
             {
                 return this.Error("Invalid Start Point. Start Point is required.");
@@ -33,9 +39,9 @@ namespace SharedTrip.Controllers
             {
                 return this.Error("Invalid End Point. End Point is required.");
             }
-            if (string.IsNullOrEmpty(departureTime))
+            if (string.IsNullOrEmpty(departureTime) || !DateTime.TryParseExact(departureTime, "dd.MM.yyyy HH:mm",CultureInfo.InvariantCulture,DateTimeStyles.None,out _))
             {
-                return this.Error("Invalid Departure Time. Departure Time is requred.");
+                return this.Error("Invalid Departure Time. Departure Time in dd.MM.yyyy HH:mm format is requred.");
             }
             if (string.IsNullOrEmpty(imagePath))
             {
@@ -56,13 +62,33 @@ namespace SharedTrip.Controllers
 
         public HttpResponse All()
         {
+            if (!IsUserSignedIn())
+            {
+                return this.Redirect("/Users/Login");
+            }
             var trips = this.tripsService.GetAll();
             return this.View(trips);
         }
 
         public HttpResponse Details(string tripId)
         {
-            return this.View();
+            if (!IsUserSignedIn())
+            {
+                return this.Redirect("/Users/Login");
+            }
+            var tripDetails = this.tripsService.GetTripDetails(tripId);
+            return this.View(tripDetails);
+        }
+
+        public HttpResponse AddUserToTrip(string tripId)
+        {
+            if (!IsUserSignedIn())
+            {
+                return this.Redirect("/Users/Login");
+            }
+            var userId = this.GetUserId();
+            this.tripsService.AddUser(userId, tripId);
+            return this.Redirect("/Trips/All");
         }
     }
 }

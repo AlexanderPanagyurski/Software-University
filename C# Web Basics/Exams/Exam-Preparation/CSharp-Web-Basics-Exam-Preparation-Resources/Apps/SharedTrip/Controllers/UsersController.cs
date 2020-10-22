@@ -19,6 +19,10 @@ namespace SharedTrip.Controllers
 
         public HttpResponse Login()
         {
+            if (IsUserSignedIn())
+            {
+                return this.Redirect("/Trips/All");
+            }
             return this.View();
         }
 
@@ -31,12 +35,16 @@ namespace SharedTrip.Controllers
                 return this.Error("Invalid username or password.");
             }
             this.SignIn(userId);
-            return this.Redirect("/");
+            return this.Redirect("/Trips/All");
         }
 
 
         public HttpResponse Register()
         {
+            if (IsUserSignedIn())
+            {
+                return this.Redirect("/Trips/All");
+            }
             return this.View();
         }
 
@@ -65,6 +73,10 @@ namespace SharedTrip.Controllers
 
         public HttpResponse Logout()
         {
+            if (!IsUserSignedIn())
+            {
+                return this.Error("Only logged-in users can log-out.");
+            }
             this.SignOut();
             return this.Redirect("/");
         }
