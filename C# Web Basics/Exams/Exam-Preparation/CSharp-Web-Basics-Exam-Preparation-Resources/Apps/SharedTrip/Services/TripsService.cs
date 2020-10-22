@@ -24,6 +24,8 @@ namespace SharedTrip.Services
                 UserId=userId,
                 TripId=tripId
             });
+            var trip = this.db.Trips.FirstOrDefault(x => x.Id == tripId);
+            trip.Seats--;
             this.db.SaveChanges();
         }
 
