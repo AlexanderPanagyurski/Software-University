@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PGdRLtWIbrLwVPGKPsG0U78ml8S48ZLi9vK1eDCTmyRtc9QPuC6+jTNTE/ZKds/jqwLRg6yAMcL8YhemNoq3gA==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub Repositories\\Software-University\\C# Web Basics\\Exams\\Exam-Preparation\\CSharp-Web-Basics-Exam-Preparation-Resources\\SUS.HTTP\\SUS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
