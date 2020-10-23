@@ -335,3 +335,4 @@ ASALocalRun/
 
 # Custom Ignores
 ApplicationDbContext.cs
+DatabaseConfiguration.cs
