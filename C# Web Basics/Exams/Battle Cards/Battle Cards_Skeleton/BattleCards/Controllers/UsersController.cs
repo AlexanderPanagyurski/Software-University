@@ -19,6 +19,10 @@ namespace BattleCards.Controllers
 
         public HttpResponse Login()
         {
+            if (IsUserSignedIn())
+            {
+                return this.Redirect("/Cards/All");
+            }
             return this.View();
         }
 
@@ -37,6 +41,10 @@ namespace BattleCards.Controllers
 
         public HttpResponse Register()
         {
+            if (IsUserSignedIn())
+            {
+                return this.Redirect("/Cards/All");
+            }
             return this.View();
         }
 
@@ -47,9 +55,17 @@ namespace BattleCards.Controllers
             {
                 return this.Error("Invalid Username. Username should be between 5 and 20 characters.");
             }
+            if (!usersService.IsUsernameAvailable(username))
+            {
+                return this.Error("Username is not available.");
+            }
             if(string.IsNullOrEmpty(email) || !new EmailAddressAttribute().IsValid(email))
             {
                 return this.Error("Invalid email address.");
+            }
+            if (!usersService.IsEmailAvailable(email))
+            {
+                return this.Error("Email is not available.");
             }
             if(string.IsNullOrEmpty(password) || password.Length<6 || password.Length > 20)
             {
@@ -66,6 +82,10 @@ namespace BattleCards.Controllers
 
         public HttpResponse Logout()
         {
+            if (!IsUserSignedIn())
+            {
+                return this.Error("You are not logged-in.");
+            }
             this.SignOut();
             return this.Redirect("/");
         }
