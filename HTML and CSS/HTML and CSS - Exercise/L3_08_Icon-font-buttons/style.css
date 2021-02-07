@@ -1,0 +1,40 @@
+@import url("https://use.fontawesome.com/releases/v5.15.2/css/all.css");
+body {
+    padding: 30px;
+}
+
+p {
+    border-style: solid;
+    cursor: pointer;
+    padding: 10px;
+    padding-right: 60px;
+    margin-right: 20px;
+    border-radius: 5px;
+    outline: none;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-width: 2px;
+    width: 100px
+}
+
+a {
+    padding: 5px;
+    padding-bottom: 5px;
+}
+
+i {
+    padding-right: 5px;
+}
+
+.star {
+    border-color: green;
+    background-color: green;
+    color: white;
+}
+
+.mail {
+    border-color: rgb(230, 162, 37);
+    background-color: rgb(230, 162, 37);
+    color: white;
+}
