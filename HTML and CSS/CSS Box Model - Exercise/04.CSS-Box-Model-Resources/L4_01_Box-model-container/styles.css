@@ -1,0 +1,10 @@
+.box-paragraph {
+    width: 200px;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    background-color: rgb(64, 224, 208);
+    padding: 5px;
+    margin-left: 650px;
+    margin-top: 120px;
+}
