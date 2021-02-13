@@ -1,0 +1,19 @@
+ul {
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+li {
+    border-width: 0.4rem;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+img {
+    padding: 10px;
+    max-height: 400px;
+    max-width: 200px;
+}
