@@ -10,7 +10,7 @@ section {
     border-color: black;
     border-width: 2px;
     border-radius: 5px;
-    height: 660px;
+    height: 690px;
 }
 
 .earth-header {
@@ -60,14 +60,16 @@ p {
     margin-top: 2px;
     padding-top: 0px;
     margin-bottom: 5px;
+    font-size: 14px;
 }
 
 .earth-content-text {
     display: inline-block;
-    max-width: 50%;
+    max-width: 45%;
     vertical-align: top;
     margin-left: 20px;
     margin-right: 20px;
+    font-size: 18px;
 }
 
 section p {
@@ -88,7 +90,7 @@ section p {
 
 .earth-footer-content {
     background-color: rgb(125, 204, 125);
-    height: 118px;
+    height: 116px;
     padding: 15px 15px 0px 15px;
 }
 
