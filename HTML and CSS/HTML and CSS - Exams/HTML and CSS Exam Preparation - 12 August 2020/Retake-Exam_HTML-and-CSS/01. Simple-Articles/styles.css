@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&display=swap');
+body {
+    font-family: 'Lato', sans-serif;
+    line-height: 3em;
+    color: rgb(55, 61, 61);
+    margin: 150px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.included,
+.priceInfo {
+    border-radius: 5px;
+    flex-basis: 50%;
+    margin: 50px 20px;
+}
+
+.period {
+    margin-top: 10px;
+    margin-left: 6px;
+}
+
+.moto p {
+    margin-top: 5px;
+}
+
+.included {
+    background: #E3F3FD;
+    border-radius: 5px;
+    margin-right: 50px;
+}
+
+.priceInfo {
+    border: 6px solid #44A9F8;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.included h2 {
+    color: #586776;
+}
+
+.included ul {
+    list-style: none;
+    padding-inline-start: 0px;
+}
+
+.included ul li:before {
+    content: '✓';
+    font-size: larger;
+    font-style: bold;
+    margin-right: 10px;
+    color: #44A9F8;
+    padding-right: 5px;
+}
+
+.included ul,
+.included h2 {
+    margin-left: 50px;
+    color: #586776;
+}
+
+.btn-primary,
+.included {
+    box-shadow: 4px 5px 9px -5px #000000;
+}
+
+.btn-primary {
+    color: white;
+    text-transform: uppercase;
+    border-radius: 8px;
+    box-shadow: 0 0 5px 2px #d2d2d2;
+    outline: none;
+    padding: 10px 50px;
+    border: none;
+    background-color: #44a9f8;
+    justify-content: center;
+    flex-basis: 10%;
+    width: 40%;
+    align-self: center;
+}
+
+.price {
+    display: flex;
+    align-self: center;
+    margin: 100px 0px 0px 0px;
+}
+
+.currency {
+    color: #44a9f8;
+    font-size: 50px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-weight: 900;
+}
+
+.moto {
+    align-self: center;
+}
