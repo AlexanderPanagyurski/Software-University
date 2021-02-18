@@ -75,3 +75,22 @@ main {
     vertical-align: top;
     margin-left: 80px;
 }
+
+.site-navbar {
+    display: inline-block;
+    float: right;
+}
+
+.site-navbar li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.site-navbar a {
+    text-decoration: none;
+    color: green;
+}
+
+.site-title {
+    display: inline-block;
+}
