@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(218, 214, 214);
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header,
+main,
+aside,
+footer {
+    border-radius: 6px;
+    border-width: 1px;
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    background-color: white;
+    margin: 12px;
+    height: 300px;
+}
+
+header,
+footer {
+    width: 97%;
+    display: flex;
+}
+
+main {
+    width: 60%;
+    display: inline-flex;
+}
+
+aside {
+    width: 35%;
+    display: inline-flex;
+}
+
+p {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+footer {
+    height: 100px;
+}
