@@ -1,0 +1,22 @@
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+.container,
+.week,
+.notes {
+    border: 1px solid black;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.notes {
+    flex-direction: column;
+}
+
+div {
+    max-width: 65vw;
+}
