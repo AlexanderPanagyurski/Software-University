@@ -4,19 +4,58 @@ html {
     box-sizing: border-box;
 }
 
-.container,
-.week,
-.notes {
-    border: 1px solid black;
-    margin: 0px;
+html,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    box-sizing: inherit;
+}
+
+div,
+section {
     display: flex;
-    justify-content: center;
+}
+
+.container {
+    max-width: 65vw;
+    margin: 60px auto;
+}
+
+span {
+    border: 1px;
+    border-style: solid;
+    padding: 30px;
+    flex-grow: 1;
+    text-align: center;
 }
 
 .notes {
     flex-direction: column;
 }
 
-div {
-    max-width: 65vw;
+.week {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+    flex-basis: 50vw;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.workweek,
+.weekend {
+    flex-basis: 100%;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.day {
+    height: 100px;
+}
+
+.notes span:nth-child(2) {
+    padding-top: 96px;
 }
