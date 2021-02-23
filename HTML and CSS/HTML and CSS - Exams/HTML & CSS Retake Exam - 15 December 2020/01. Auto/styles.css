@@ -50,3 +50,11 @@ body {
 .info-list-section {
     margin-top: 60px;
 }
+
+.image-wrapper img {
+    margin-top: 12px;
+}
+
+.info-text {
+    margin-left: 10px;
+}
