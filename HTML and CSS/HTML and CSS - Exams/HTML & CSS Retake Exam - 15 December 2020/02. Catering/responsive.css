@@ -1,0 +1,17 @@
+@media all and (max-width:600px) {
+    #about>article.w3-col.m6.w3-padding-large.w3-hide-small {
+        display: none;
+    }
+    #about>article:nth-child(2) {
+        width: 100%;
+    }
+    body>section>article>article {
+        display: none;
+    }
+    #menu>article:nth-child(2) {
+        width: 100%;
+    }
+    #menu>article:nth-child(1) {
+        width: 100%
+    }
+}
