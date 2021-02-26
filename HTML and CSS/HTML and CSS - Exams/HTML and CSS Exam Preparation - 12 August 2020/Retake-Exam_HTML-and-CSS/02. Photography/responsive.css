@@ -1,1 +1,26 @@
-/* TODO: Add media queries */
+@media all and (max-width:600px) {
+    html,
+    body {
+        height: 100%;
+    }
+    body>div>header {
+        width: 100%;
+    }
+    section.thumbnails {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    section.thumbnails>div>a {
+        margin-top: 30px;
+        margin-bottom: 0px;
+        flex-basis: 100%;
+        align-self: center;
+    }
+    .thumbnails>div {
+        width: 100%;
+    }
+    .thumbnails>div>a>img {
+        height: 100%;
+    }
+}
