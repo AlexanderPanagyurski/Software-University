@@ -1,0 +1,249 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&display=swap");
+@import url("https://use.fontawesome.com/releases/v5.8.2/css/all.css");
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Lato", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Montserrat", sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 0px 8px 0px #000000;
+    padding: 0px 20px;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.logo-wrapper {
+    max-width: 200px;
+    align-self: center;
+}
+
+.logo-wrapper img {
+    width: 70%;
+}
+
+nav>ul {
+    display: flex;
+    list-style: none;
+    margin: 0px;
+    align-items: center;
+    font-weight: bolder;
+}
+
+nav>ul>li>a {
+    margin: 0px 15px;
+    text-decoration: none;
+    color: #515E6D;
+}
+
+nav>ul>li {
+    padding: 25px 0px;
+    border-top: 5px solid rgba(0, 0, 0, 0);
+}
+
+nav>ul>li:hover {
+    border-top: 5px solid #42ABF8;
+}
+
+.account-picture {
+    background-color: #42ABF8;
+    border-radius: 200px;
+    padding: 10px;
+    color: white;
+    box-shadow: 0px 1px 3px 0px #42ABF8;
+}
+
+.certificates-wrapper {
+    display: flex;
+    margin: 80px 0px;
+    justify-content: center;
+    z-index: 1;
+}
+
+.certificates-info {
+    background-color: #29394B;
+    color: white;
+    border-radius: 5px;
+    flex-basis: 40%;
+    padding: 20px;
+    margin-right: 60px;
+    font-size: larger;
+}
+
+.diploma-images {
+    align-self: flex-end;
+}
+
+.diploma-images :first-child {
+    position: relative;
+    left: 4px;
+}
+
+.diploma-images :last-child {
+    flex-basis: 100%;
+}
+
+img.certificates-background {
+    z-index: -1;
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    opacity: 0.2;
+    top: 1px;
+}
+
+.diploma-info {
+    display: flex;
+    margin-top: 180px;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.diploma-info h1 {
+    text-align: center;
+}
+
+.diploma-info .about-web {
+    background-color: rgb(250, 250, 239);
+    padding: 10px;
+    margin: 20px 50px 10px 20px;
+    font-size: larger;
+}
+
+.about-web {
+    max-width: 1500px;
+    align-self: center;
+}
+
+.diploma-aquisition-rule {
+    margin-left: 180px;
+}
+
+.web-dev-footer {
+    color: #969aa3;
+    display: flex;
+    position: absolute;
+    bottom: 78px;
+    left: 328px;
+}
+
+.diploma {
+    height: 450px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.diploma-title {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 0;
+}
+
+.diploma-article {
+    background-color: #f4f5f7;
+    padding: 15px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.explore-us {
+    width: 80%;
+    height: 200px;
+    border-radius: 8px;
+    padding-top: 35px;
+    margin: 100px auto;
+    margin-bottom: 50px;
+    text-align: center;
+    color: white;
+    opacity: 0.8;
+    background-image: url("./images/sign-up-prompt-background.jpg");
+    box-shadow: 1px 6px 9px 0px rgba(0, 0, 0, 0.75);
+}
+
+.explore-us-buttons {
+    margin-top: 50px;
+}
+
+.apply-btn {
+    border-radius: 8px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 10px 25px;
+}
+
+.explore-apply-btn {
+    color: #5ab5f8;
+    background-color: white;
+    outline: none;
+    border: none;
+    margin-right: 15px;
+}
+
+.explore-curriculum-btn {
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+    margin-left: 25px;
+}
+
+.button-border {
+    border-right: 2px solid white;
+    padding: 3px;
+}
+
+.explore-us-line {
+    width: 80%;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    height: 100px;
+}
+
+.footer-logo {
+    width: 120px;
+}
+
+.footer-ul {
+    display: flex;
+    list-style: none;
+}
+
+.footer-li {
+    margin: 10px;
+}
+
+.footer-href {
+    color: black;
+    text-decoration: none;
+}
+
+nav.footer-nav {
+    box-shadow: none;
+    justify-content: flex-end;
+    padding: 0px;
+}
+
+.reserved {
+    font-size: 10px;
+    padding: 50px;
+    margin-left: 50px;
+}
