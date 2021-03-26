@@ -1,0 +1,12 @@
+.article {
+    padding: 10px
+}
+
+.description {
+    font-style: italic;
+    color: darkturquoise;
+}
+
+.author {
+    font-weight: bold;
+}

@@ -1,0 +1,25 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Harry Potter",
+            "description": "Wizards and stuff"
+        },
+        {
+            "id": 2,
+            "title": "Programming with JS",
+            "description": "Guide to programming"
+        },
+        {
+            "id": 3,
+            "title": "The Bible",
+            "description": "Most important book",
+            "author": "God"
+        },
+        {
+            "id": 4,
+            "title": "Chronicles of Narnia",
+            "description": "Adventure"
+        }
+    ]
+}
